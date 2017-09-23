@@ -103,7 +103,12 @@ public class Main {
 
             // print results from MinIE
             ObjectArrayList<AnnotatedProposition> propositions = result.getPropositions();
-            dout.println("Output:");
+            dout.println("\nOutput:");
+            if (options.has("p")) {
+                result.getSentenceSemanticGraph().prettyPrint();
+                dout.print("\n");
+            }
+
             if (propositions.size() < 1) {
                 dout.println("No extraction found.");
                 dout.print("\n");
@@ -153,6 +158,8 @@ public class Main {
         optionParser
                 .accepts("dict-overwrite", "if set, the default dictionary (multi-word expressions from WordNet and Wiktionary), will be overwritten, else new dictionaries will be appended")
                 .withOptionalArg();
+        optionParser
+                .accepts("p", "print the dependency parse of the input sentence");
         optionParser
                 .accepts("h", "show help");
         return optionParser;

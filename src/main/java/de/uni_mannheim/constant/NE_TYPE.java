@@ -16,4 +16,5 @@ public class NE_TYPE {
     public static final String ORDINAL = "ORDINAL";
     public static final String NO_NER = "O";
     public static final String ENTITY = "ENTITY";
+    public static final String SET = "SET";
 }
