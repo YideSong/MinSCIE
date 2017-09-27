@@ -25,7 +25,7 @@ An OIE system aims to make the following extractions:
 
 ## Version
 
-This is the latest version of MinIE, which may give you different results than the original EMNLP-2017 version. The EMNLP-2017 version can be found [here](https://github.com/rgemulla/minie).
+This is the latest version of MinIE, which may give you different (improved!) results than the original EMNLP-2017 version. The EMNLP-2017 version can be found [here](https://github.com/rgemulla/minie).
 
 ## Demo
 
