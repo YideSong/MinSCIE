@@ -23,6 +23,10 @@ An OIE system aims to make the following extractions:
 ("AMD"; "is"; "technology company")
 ```
 
+## Version
+
+This is the latest version of MinIE, which may give you different results than the original EMNLP-2017 version. The EMNLP-2017 version can be found [here](https://github.com/rgemulla/minie).
+
 ## Demo
 
 In general, the code for running MinIE in all of its modes is almost the same. The only exception is MinIE-D, which requires additional input (list of multi-word dictionaries). You can still use MinIE-D without providing multi-word dictionaries, but then MinIE-D assumes that you provided an empty dictionary, thus minimizing all the words which are candidates for dropping. 
