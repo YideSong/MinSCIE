@@ -124,6 +124,11 @@ $ curl 'http://localhost:8080/minie/query' -X POST -d 'Obama visited the white h
 }
 ```
 
+## Python wrapper for MinIE (miniepy)
+
+You can find a python wrapper for MinIE [here](https://github.com/mmxgn/miniepy). If you want to use MinIE with python, please follow the guidelines provided on the repo's README. 
+
+
 ## Resources
 
 * **Documentation:** for more thorough documentation for the code, please visit [MinIE's project page](https://gkiril.github.io/minie/).
