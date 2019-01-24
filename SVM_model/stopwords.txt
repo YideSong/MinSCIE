@@ -1,0 +1,11 @@
+('the', 'herself', 'our', 'my','yours', 'm', 'your', 'which', 'o', 'shan', 'his',
+               'such', 'ain', 'that', 's', 'are', 'was', 'their', 'he',  'being',
+                'an', 'there', 'him', 'having', 're', 'it', 'or', 'll', 'ourselves',
+               'theirs', 'whom', 'did', 'me', 'than', 'she', 'we', 'd',
+               'they', 'themselves', 'itself', 'her', 'those', 'myself',
+                'himself', 'a', 'i', 'them', 'this', 'were',
+                'is', 'ours', 'be', 'am', 'then', 'to', 'been', 'yourself', 'have', 'so',
+                'of', 'same', 'ma', 'by',  'hers',
+                'yourselves', 'just',  'you', 't', 'now', 'any', 'y', 'its','A', 'B', 'C', 'D', 'E', 'F', 'G','H',
+               'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'b', 'c', 'e',
+               'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'o','p','q','r','u','v','w','x','z')
