@@ -10,6 +10,7 @@ import de.uni_mannheim.utils.coreNLP.CoreNLPUtils;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.semgraph.SemanticGraph;
 
+
 /**
  * @author Kiril Gashteovski
  */
