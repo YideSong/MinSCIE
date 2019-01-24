@@ -1160,7 +1160,7 @@ public class MinIE {
         String purpose = "base";
         List <String> lines = new ArrayList<String>();
        	String exe = "python";
-       	String command = "C:/Users/songi/git/minie/src/main/SVM_model_for_citation_classification/SVM_model_for_citation_classification.py";
+       	String command = "C:/Users/songi/git/minie/SVM_model/test.py";
        	String num1 = sentence;
        	String[] cmdArr = new String[] {exe, command, num1};
        	Process pr;

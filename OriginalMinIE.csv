@@ -1,0 +1,1284 @@
+﻿id,Input Sentence
+0,	Assume that L is a line bundle.
+,"L"	"is"	"line bundle"	,(+,CT),NONE
+
+1,"	Thus the class tp(-) is defined for varieties of dimension i(p-1) when i is arbitrary, satisfies the degree formula when i≤p, and is of p-torsion when i≤p-1."
+,"i"	"is"	"arbitrary"	,(+,CT),NONE
+
+2,"	In order to achieve this, we prove that the sufficient condition of Theorem 1.1 is satisfied when X does not coincide with the underlying manifold of G."
+,"X"	"does coincide with underlying manifold of"	"G."	,(-,CT),(we, (+,CT))
+
+3,	We now check that our hypothesis is invariantly defined.
+,"our"	"has"	"hypothesis"	,(+,CT),NONE
+,"hypothesis"	"is defined"	"invariantly"	,(+,CT),NONE
+,"hypothesis"	"is defined"	,(+,CT),NONE
+
+4,"	We work in the assumptions of Theorem 3.3, so that the ideal ID is invariant and the quotient module is defined."
+,"We"	"work in assumptions of"	"Theorem QUANT_O_1"	,(+,CT),NONE
+,"ideal ID"	"is"	"invariant"	,(+,CT),NONE
+,"quotient module"	"is defined"	,(+,CT),NONE
+
+5,"	But on the other handRˆ-bj=(τ(-bj)Rˆ+)∩Rˆ-={[β,ℏk]|β∈R-,k∈Z,(β,bj)<k≤0}, which implies (α(1),bj)<0."
+,"other handRˆ-bj =-LRB- τ"	"is"	"bj"	,(+,CT),NONE
+,"-LSB- β -RSB-"	"is"	"ℏk"	,(+,CT),NONE
+,"k QUANT_S_1 Z"	"is"	"β"	,(+,CT),NONE
+,"β"	"is"	"bj"	,(+,CT),NONE
+,"k QUANT_S_1 Z"	"implies"	,(+,CT),NONE
+,"α"	"is"	"QUANT_O_1"	,(+,CT),NONE
+,"α"	"is"	"bj"	,(+,CT),NONE
+
+6,"	The association between stroke risk and depressive symptoms warrants further research, as it raises the possibility that cerebrovascular rather than cardiovascular risk status may act as an early marker of depression risk."
+,"cerebrovascular risk status"	"act as early marker of"	"depression risk"	,(+,PS),NONE
+,"cardiovascular risk status"	"act as early marker of"	"depression risk"	,(+,PS),NONE
+
+7,	Analysis 1: Manifest Vascular and Nonvascular Disease as a Predictor of Depressive Symptoms
+
+8,"	The >250μm fractions, found through light microscope analysis to be dominated (>90%) by amorphous organic matter (AOM), were also analysed for δ13C."
+,"> 250μm fractions"	"be found through"	"light microscope analysis to be dominated by amorphous organic matter"	,(+,CT),NONE
+,"light microscope analysis"	"be dominated by"	"amorphous organic matter"	,(+,CT),NONE
+,"amorphous organic matter"	"is"	"AOM"	,(+,CT),NONE
+,"> 250μm fractions found through light microscope analysis to be dominated by amorphous organic matter"	"were analysed for"	"δ13C"	,(+,CT),NONE
+
+9,"	Both taxa are produced in abundance by a variety of coniferous plants, and are typical in the Paleogene of the northern UK and Greenland region (Boulter and Manum, 1989; Jolley and Whitham, 2004; Jolley and Morton, 2007), as well as mid-latitude North America (Smith et al., 2007) and Arctic Canada (Greenwood and Basinger, 1993)."
+,"taxa"	"are produced in abundance by variety of"	"coniferous plants"	,(+,CT),NONE
+,"taxa"	"are produced in"	"abundance"	,(+,CT),NONE
+,"taxa"	"are typical in Paleogene of"	"northern UK"	,(+,CT),NONE
+,"taxa"	"are typical in Paleogene of"	"Greenland region"	,(+,CT),NONE
+,"taxa"	"are"	"typical"	,(+,CT),NONE
+,"Greenland region"	"is"	"Boulter"	,(+,CT),NONE
+,"Greenland region"	"is"	"Manum"	,(+,CT),NONE
+,"Greenland region"	"is"	"1989"	,(+,CT),NONE
+,"Boulter"	"is"	"Greenland region"	,(+,CT),NONE
+,"Manum"	"is"	"Greenland region"	,(+,CT),NONE
+,"1989"	"is"	"Greenland region"	,(+,CT),NONE
+,"Arctic Canada"	"is"	"Greenwood"	,(+,CT),NONE
+,"Arctic Canada"	"is"	"Basinger"	,(+,CT),NONE
+,"Greenwood"	"is"	"Arctic Canada"	,(+,CT),NONE
+,"Basinger"	"is"	"Arctic Canada"	,(+,CT),NONE
+
+10,"	Diatom δ30Si is a proxy for diatom silicic acid utilisation (Fig. 2a) because frustule growth preferentially incorporates 28Si over 30Si with 30ε∼-1.1‰ (De La Rocha et al., 1997)."
+,"Diatom δ30Si"	"is proxy for"	"diatom silicic acid utilisation"	,(+,CT),NONE
+,"Diatom δ30Si"	"is"	"proxy"	,(+,CT),NONE
+,"diatom silicic acid utilisation"	"is"	"Fig. 2a"	,(+,CT),NONE
+,"frustule growth"	"incorporates"	"28Si over 30Si with 30ε ∼ QUANT_O_1 ‰"	,(+,CT),NONE
+
+11,"	Today, incomplete nutrient utilisation makes this a region of CO2 venting to the atmosphere (Marinov et al., 2006)."
+,"incomplete nutrient utilisation"	"makes region of CO2 venting to atmosphere"	"Today"	,(+,CT),NONE
+,"CO2"	"be venting to"	"atmosphere"	,(+,CT),NONE
+
+12,"	In the Site 1260 record, a trend from ∼0.6 to 1.0 in the lowest samples is followed by a shift in the opposite direction, toward the unradiogenic end-member, but the values are variable and some spikes to >1 (radiogenic) persist."
+,"trend from QUANT_S_1 to QUANT_S_2 in lowest samples"	"is followed by shift in opposite direction In"	"Site"	,(+,CT),NONE
+,"trend from QUANT_S_1 to QUANT_S_2 in lowest samples"	"is followed by shift in opposite direction toward"	"unradiogenic end-member"	,(+,CT),NONE
+,"trend from QUANT_S_1 to QUANT_S_2 in lowest samples"	"is followed by shift in"	"opposite direction"	,(+,CT),NONE
+,"values"	"are"	"variable"	,(+,CT),NONE
+,"QUANT_S_1"	"is"	"radiogenic"	,(+,CT),NONE
+,"QUANT_S_1 spikes to QUANT_S_2"	"persist"	,(+,CT),NONE
+
+13,"	For the purpose of comparing δ13Corg and Osi records between different localities, however, we believe the chronostratigraphic framework is sufficient to recognize differences in the timing of key events."
+,"chronostratigraphic framework"	"is"	"sufficient to recognize differences in timing of key events"	,(+,CT),(we, (+,PS))
+
+14,"	However, there may be several reasons for the various discrepancies noted, primarily that MTDATA calculates the reactions at equilibrium, and assumes that the reactions go to completion, when in reality, this may not be the case."
+,"MTDATA"	"However there be QUANT_R_1 reasons for QUANT_R_2 discrepancies calculates primarily reactions at"	"equilibrium"	,(+,PS),NONE
+,"MTDATA"	"However there be QUANT_R_1 reasons for QUANT_R_2 discrepancies calculates reactions at"	"equilibrium"	,(+,PS),NONE
+,"However there may be QUANT_S_1 reasons for QUANT_S_2 discrepancies"	"MTDATA calculates primarily reactions at"	"equilibrium"	,(+,CT),NONE
+,"However there may be QUANT_S_1 reasons for QUANT_S_2 discrepancies"	"MTDATA calculates reactions at"	"equilibrium"	,(+,CT),NONE
+,"reactions"	"go to"	"completion"	,(+,CT),NONE
+,"this"	"be case in"	"reality"	,(-,PS),NONE
+,"this"	"be"	"case"	,(-,PS),NONE
+
+15,"	Ca-derived sorbents sampled before, during and after tests were analysed for changes in morphology using environmental scanning electron microscopy (SEM) and electron dispersive spectroscopy (EDS)."
+,"Ca-derived sorbents during tests"	"be sampled"	"before"	,(+,CT),NONE
+,"Ca-derived sorbents after"	"be sampled"	"before"	,(+,CT),NONE
+,"Ca-derived sorbents sampled before during tests"	"were analysed for changes in"	"morphology using environmental scanning electron microscopy"	,(+,CT),NONE
+,"Ca-derived sorbents sampled before during tests"	"were analysed for changes in"	"morphology using electron dispersive spectroscopy"	,(+,CT),NONE
+,"Ca-derived sorbents sampled before after"	"were analysed for changes in"	"morphology using environmental scanning electron microscopy"	,(+,CT),NONE
+,"Ca-derived sorbents sampled before after"	"were analysed for changes in"	"morphology using electron dispersive spectroscopy"	,(+,CT),NONE
+,"changes in morphology"	"be using"	"environmental scanning electron microscopy"	,(+,CT),NONE
+,"changes in morphology"	"be using"	"electron dispersive spectroscopy"	,(+,CT),NONE
+,"environmental scanning electron microscopy"	"is"	"SEM"	,(+,CT),NONE
+,"electron dispersive spectroscopy"	"is"	"SEM"	,(+,CT),NONE
+,"electron dispersive spectroscopy"	"is"	"EDS"	,(+,CT),NONE
+
+16,"	The trajectory of flyby E3 projected into the x-z-plane is slightly different compared to E4, E5, and E6."
+,"trajectory of flyby E3"	"projected into"	"x-z-plane"	,(+,CT),NONE
+,"trajectory of flyby E3 projected into x-z-plane"	"is"	"different"	,(+,CT),NONE
+,"trajectory of flyby E3 projected into x-z-plane"	"is different"	"compared to E4"	,(+,CT),NONE
+,"trajectory of flyby E3 projected into x-z-plane"	"is different"	"compared to E5"	,(+,CT),NONE
+,"trajectory of flyby E3 projected into x-z-plane"	"is different"	"compared to E6"	,(+,CT),NONE
+
+17,"	Electrons with energies greater than the resonance energy drift opposite to the direction of the plasma motion (corotation), relative to the moon."
+,"plasma motion"	"is"	"corotation"	,(+,CT),NONE
+
+18,	A limited number of K′ and Hcont images provide especially useful constraints on the vertical structures of the two features when paired with nearly simultaneous H images.
+,"limited number of K QUANT_S_1"	"provide useful constraints on vertical structures of QUANT_R_1 features when paired with"	"nearly simultaneous H images"	,(+,CT),NONE
+,"limited number of Hcont images"	"provide useful constraints on vertical structures of QUANT_R_1 features when paired with"	"nearly simultaneous H images"	,(+,CT),NONE
+,"limited number of K QUANT_S_1"	"provide"	"especially useful constraints on vertical structures of QUANT_O_1 features"	,(+,CT),NONE
+,"limited number of Hcont images"	"provide"	"especially useful constraints on vertical structures of QUANT_O_1 features"	,(+,CT),NONE
+
+19,"	These features reached pressures in the 300-500mb range (Sromovsky et al., 2007), which is well above the 1.2-bar methane condensation level (Sromovsky et al., 2011)."
+,"features"	"reached pressures in"	"300-500mb range"	,(+,CT),NONE
+,"features"	"reached"	"pressures"	,(+,CT),NONE
+,"which"	"is above"	"1.2-bar methane condensation level"	,(+,CT),NONE
+,"which"	"is"	"well"	,(+,CT),NONE
+
+20,	A second possibility is that the wake receives accelerated or escaped photoelectrons from Rhea's charged surface.
+,"A second possibility"	"is that wake receives accelerated photoelectrons from"	"Rhea 's charged surface"	,(+,CT),NONE
+,"A second possibility"	"is that wake receives escaped photoelectrons from"	"Rhea 's charged surface"	,(+,CT),NONE
+,"wake"	"be receives accelerated photoelectrons from"	"Rhea 's charged surface"	,(+,CT),NONE
+,"wake"	"be receives escaped photoelectrons from"	"Rhea 's charged surface"	,(+,CT),NONE
+,"Rhea"	"has"	"charged surface"	,(+,CT),NONE
+
+21,	Phase Space Density (PSD) analysis
+,"Phase Space Density"	"is"	"PSD"	,(+,CT),NONE
+
+22,"	We have run all simulations for solar minimum conditions (May 15, 2008), identical to the fluxes used by Galand et al. (2009, 2011)."
+,"We"	"have run QUANT_R_1 simulations for solar minimum conditions"	"identical to fluxes used by Galand et"	,(+,CT),NONE
+,"We"	"have run QUANT_O_1 simulations for"	"solar minimum conditions"	,(+,CT),NONE
+,"fluxes"	"be used by"	"Galand et"	,(+,CT),NONE
+
+23,"	The effects of the feedback on the magnetosphere did however have little influence on the atmosphere behaviour, which is the focus of our study here."
+,"effects of feedback on magnetosphere"	"did have little influence on"	"atmosphere"	,(+,CT),NONE
+,"behaviour"	"is focus of"	"study here"	,(+,CT),NONE
+,"behaviour"	"is"	"focus"	,(+,CT),NONE
+,"our"	"has"	"study"	,(+,CT),NONE
+
+24,"	However, the non-detection is based on only a few observations that have proven difficult to analyze, and the search should continue."
+,"non-detection"	"is based on"	"only QUANT_O_1 observations"	,(+,CT),NONE
+,"only QUANT_S_1 observations"	"have proven"	"difficult to analyze"	,(+,CT),NONE
+,"search"	"continue"	,(+,PS),NONE
+
+25,	The detections of the transits in the C II 1335Å and Si III 1206.5Å lines were compared with observations of other lines such as Si IV 1395Å in which the transit was not detected.
+,"Si"	"is"	"other line"	,(+,CT),NONE
+,"detections of transits in C QUANT_S_1 1335Å"	"were compared with observations of"	"Si QUANT_O_1 1395Å"	,(+,CT),NONE
+,"detections of transits in Si III QUANT_S_1 Å lines"	"were compared with observations of"	"Si QUANT_O_1 1395Å"	,(+,CT),NONE
+,"transit"	"was detected"	"Si QUANT_O_1 1395Å"	,(-,CT),NONE
+
+26,"	The dominant Si species is then SiO, which dissociates at a similar pressure level as the other molecules."
+,"dominant Si species"	"is"	"SiO"	,(+,CT),NONE
+,"SiO"	"dissociates at similar pressure level as"	"other molecules"	,(+,CT),NONE
+
+27,"	In the absence of heavy elements, H3+ forms near the base of the model and subsequent infrared cooling balances the EUV heating rates."
+
+28,	Low atmospheric temperatures and a small inventory of oxygen and ozone limit the gas phase production rate of perchlorate.
+,"Low atmospheric temperatures"	"limit gas phase production rate of"	"perchlorate"	,(+,CT),NONE
+,"small inventory of oxygen"	"limit gas phase production rate of"	"perchlorate"	,(+,CT),NONE
+,"small inventory of ozone"	"limit gas phase production rate of"	"perchlorate"	,(+,CT),NONE
+
+29,"	These concentrations are both many orders of magnitude lower than the observed abundance at the Phoenix landing site: 0.4-0.6wt.% (Hecht et al., 2009)."
+
+30,"	 Thus there are, up to associativity, only finitely many such q. □"
+
+31,"	In [46, §5(d)], Rehm gives examples for bounded maximal orders E, that are prime and satisfy the ACC on divisorial two-sided E-ideals, but do not satisfy the ACC on divisorial left E-ideals or the ACC on divisorial right E-ideals."
+,"Rehm"	"gives examples for bounded maximal orders E In"	"-LSB- QUANT_O_1 d -RSB-"	,(+,CT),NONE
+,"Rehm"	"gives examples for"	"bounded maximal orders E"	,(+,CT),NONE
+,"that"	"are prime ACC on"	"divisorial two-sided E-ideals"	,(+,CT),NONE
+,"that"	"do satisfy ACC on"	"divisorial left E-ideals"	,(-,CT),NONE
+,"that"	"do satisfy"	"ACC on ACC on divisorial right E-ideals"	,(-,CT),NONE
+,"that"	"satisfy"	,(+,CT),NONE
+
+32,	This extreme intensity enhancement is an effect of the large charge polarization of the [Fe(Cat)3]3- complex due to the strongly positive Fe3+ being surrounded by three negatively charged catechols.
+,"extreme intensity enhancement"	"is effect of"	"large charge"	,(+,CT),NONE
+,"extreme intensity enhancement"	"is"	"effect"	,(+,CT),NONE
+,"-LSB- Fe -RSB-"	"is"	"Cat"	,(+,CT),NONE
+
+33,	CRM measurements were also performed with the oxidized iron surface.
+,"CRM measurements"	"were performed with"	"oxidized iron surface"	,(+,CT),NONE
+
+34,"	Then Eout∈ΦTime(Ein), iff the following holds:-"
+,"Eout ∈ ΦTime"	"is"	"Ein"	,(+,CT),NONE
+
+35,"	Every memory flag is just an SR-latch with dominant reset, whose functional equivalents are also depicted in Fig. 11."
+,"QUANT_S_1 memory flag"	"is"	"SR-latch"	,(+,CT),NONE
+,"QUANT_S_1 memory flag"	"is SR-latch with"	"dominant reset"	,(+,CT),NONE
+,"dominant reset"	"has"	"functional equivalents"	,(+,CT),NONE
+,"dominant reset functional equivalents"	"are depicted in"	"Fig. 11"	,(+,CT),NONE
+
+36,"	As -ν+1t+(ν+1)2t2+1=t2+(ν+1)2-(ν+1)t, the lower bound again is equivalent to Rν>Gν+1,ν+1 for ν>-1."
+,"ν QUANT_S_1 t"	"is"	"2t2 QUANT_O_1 ="	,(+,CT),NONE
+,"t"	"is"	"ν QUANT_O_1"	,(+,CT),NONE
+,"t"	"is"	"lower"	,(+,CT),NONE
+,"t"	"is equivalent to"	"Rν > Gν QUANT_O_1"	,(+,CT),NONE
+,"t"	"is"	"equivalent"	,(+,CT),NONE
+,"Rν > Gν QUANT_S_1"	"is ν QUANT_O_1 for"	"ν"	,(+,CT),NONE
+
+37,"	Let ξ=t2+β2-β so that t≠0 iff ξ>0,t2=(ξ+β)2-β2=ξ(ξ+2β),ν+t2+β2=2(ν+1)+ξ, and the inequality becomes 0<P(ξ)=γξ4+γ(4(ν+1)+2β)ξ3+(1+8(ν+1)βγ+4(ν+1)2γ-1)ξ2+(4(ν+1)+8(ν+1)2βγ-2(ν+1)-2β)ξ+(4(ν+1)2-4(ν+1)2)."
+,"t QUANT_S_1 iff ξ > QUANT_S_2"	"is"	"t2 =-LRB- ξ"	,(+,CT),NONE
+,"t QUANT_S_1 iff ξ > QUANT_S_2"	"is"	"β"	,(+,CT),NONE
+,"ξ"	"is"	"ξ QUANT_O_1 β"	,(+,CT),NONE
+,"ν"	"is"	"ξ QUANT_O_1 β"	,(+,CT),NONE
+,"ν t2 + β2"	"is"	"ξ QUANT_O_1 β"	,(+,CT),NONE
+,"ν β2"	"is"	"ξ QUANT_O_1 β"	,(+,CT),NONE
+,"inequality"	"is"	"ξ QUANT_O_1 β"	,(+,CT),NONE
+,"QUANT_S_1"	"is"	"ν QUANT_O_1"	,(+,CT),NONE
+,"ξ"	"is"	"ν QUANT_O_1"	,(+,CT),NONE
+,"2-β2 ="	"t QUANT_R_1 iff ξ > QUANT_R_2 becomes"	"QUANT_O_1 < P = γξ4 ξ3 βγ QUANT_O_2 2γ-1"	,(+,CT),NONE
+,"2-β2 ="	"t QUANT_R_1 iff ξ > QUANT_R_2 becomes"	"QUANT_O_1 < P = γ ξ3 + QUANT_O_2 ν QUANT_O_3 βγ QUANT_O_4 2γ-1"	,(+,CT),NONE
+,"2-β2 ="	"t QUANT_R_1 iff ξ > QUANT_R_2 becomes"	"QUANT_O_1 < P = QUANT_O_2 ν QUANT_O_3 βγ QUANT_O_4 2γ-1"	,(+,CT),NONE
+,"t QUANT_S_1 iff ξ > QUANT_S_2"	"2-β2 = becomes"	"QUANT_O_1 < P = γξ4 ξ3 βγ QUANT_O_2 2γ-1"	,(+,CT),NONE
+,"t QUANT_S_1 iff ξ > QUANT_S_2"	"2-β2 = becomes"	"QUANT_O_1 < P = γ ξ3 + QUANT_O_2 ν QUANT_O_3 βγ QUANT_O_4 2γ-1"	,(+,CT),NONE
+,"t QUANT_S_1 iff ξ > QUANT_S_2"	"2-β2 = becomes"	"QUANT_O_1 < P = QUANT_O_2 ν QUANT_O_3 βγ QUANT_O_4 2γ-1"	,(+,CT),NONE
+,"QUANT_S_1 < P"	"is"	"ξ"	,(+,CT),NONE
+,"γξ4"	"is"	"QUANT_O_1 β"	,(+,CT),NONE
+,"γ"	"is"	"QUANT_O_1 β"	,(+,CT),NONE
+,"γξ4 ξ3 βγ QUANT_S_1 2γ-1"	"is"	"ξ2"	,(+,CT),NONE
+,"γξ4 ξ3 βγ QUANT_S_1 2γ-1"	"is"	"QUANT_O_1 ξ"	,(+,CT),NONE
+,"γ ξ3 + QUANT_S_1 ν QUANT_S_2 βγ QUANT_S_3 2γ-1"	"is"	"ξ2"	,(+,CT),NONE
+,"γ ξ3 + QUANT_S_1 ν QUANT_S_2 βγ QUANT_S_3 2γ-1"	"is"	"QUANT_O_1 ξ"	,(+,CT),NONE
+,"QUANT_S_1 ν QUANT_S_2 βγ QUANT_S_3 2γ-1"	"is"	"ξ2"	,(+,CT),NONE
+,"QUANT_S_1 ν QUANT_S_2 βγ QUANT_S_3 2γ-1"	"is"	"QUANT_O_1 ξ"	,(+,CT),NONE
+,"ν QUANT_S_1 2βγ-2"	"is"	"ν QUANT_O_1"	,(+,CT),NONE
+
+38,"	Let Q(t,ξ) be the symmetriser of the weakly hyperbolic matrix A(t,ξ) defined above."
+,"t"	"is"	"ξ"	,(+,CT),NONE
+,"Q"	"be"	"symmetriser"	,(+,CT),NONE
+
+39,"	These two matrices are both symmetric with polynomial entries in τ1〈ξ〉-1,…,τm〈ξ〉-1 and τ1|ξ|-1,…,τm|ξ|-1, respectively, as defined in [6, Section 3]."
+,"both symmetric with polynomial entries in τ1 ... ... τm | ξ | respectively as defined in"	"is"	"τm 〈 ξ QUANT_O_1"	,(+,CT),NONE
+,"both symmetric with polynomial entries in τ1 ... ... τm | ξ | respectively as defined in"	"is"	"QUANT_O_1"	,(+,CT),NONE
+
+40,"	Kempner [10] and Keller and Olson [9].) The number of polynomial permutations on Zp2 is|G2|=p!(p-1)ppp, and for n⩾3 the number of polynomial permutations on Zp2 is|Gn|=p!(p-1)pppp∑k=3nβ(k)."
+,"3nβ"	"is"	"k"	,(+,CT),NONE
+
+41,"	We denote by (H,∘) the group of units of E."
+,"We"	"denote by H"	"group of units of E."	,(+,CT),NONE
+,"We"	"denote"	"group of units of E."	,(+,CT),NONE
+,"H"	"is"	"∘"	,(+,CT),NONE
+
+42,	Notice that c does not depend on i.
+,"c"	"does depend on"	"i."	,(-,CT),NONE
+
+43,"	Since Z[X] is obviously a subring of Int(Mnp(Z),Mn(Z)), we have:Int(Mnp(Z),Mn(Z))(M)={f(M)|f∈Int(Mnp(Z),Mn(Z))}=Z[M]."
+,"Z"	"is"	"-LSB- X -RSB-"	,(+,CT),NONE
+,"Z"	"is"	"subring"	,(+,CT),NONE
+,"Z"	"is subring of"	"Int"	,(+,CT),NONE
+,"Mnp"	"is"	"Mn"	,(+,CT),NONE
+,"Mnp"	"is"	"Z"	,(+,CT),NONE
+,"Mn"	"is"	"Z"	,(+,CT),NONE
+,"we"	"have"	,(+,CT),NONE
+,"Int"	"is"	"M"	,(+,CT),NONE
+,"f"	"is"	"M"	,(+,CT),NONE
+,"Z"	"is"	"-LSB- M -RSB-"	,(+,CT),NONE
+
+44,	Recruitment of adults aged 40 to 69years was carried out through National Health Service registers and aimed to be inclusive and as representative as possible of the UK population.
+,"Recruitment of adults aged"	"was carried out through"	"National Health Service"	,(+,CT),NONE
+
+45,"	There is evidence that neurotic traits are stronger in tinnitus patients [20], particularly in those with higher levels of tinnitus annoyance, and recent evidence that neuroticism may predict the development of severe tinnitus in patients already experiencing some tinnitus [21]."
+,"evidence that neurotic traits are stronger in tinnitus patients particularly in those with higher levels of tinnitus annoyance"	"There is"	,(+,CT),NONE
+,"evidence recent evidence that neuroticism may predict development of severe tinnitus in patients already experiencing QUANT_S_1 tinnitus"	"There is"	,(+,CT),NONE
+,"neurotic traits"	"are stronger in"	"tinnitus patients"	,(+,CT),NONE
+,"neurotic traits"	"are recent evidence that neuroticism predict development of severe tinnitus in patients experiencing QUANT_R_1 tinnitus in"	"tinnitus patients"	,(+,PS),NONE
+,"neurotic traits"	"are stronger particularly in"	"those with higher levels of tinnitus annoyance"	,(+,CT),NONE
+,"neurotic traits"	"are recent evidence that neuroticism predict development of severe tinnitus in patients experiencing QUANT_R_1 tinnitus particularly in"	"those with higher levels of tinnitus annoyance"	,(+,PS),NONE
+,"neurotic traits"	"are"	"stronger"	,(+,CT),NONE
+,"neuroticism"	"predict"	"development of severe tinnitus in patients already experiencing QUANT_O_1 tinnitus"	,(+,PS),NONE
+,"patients"	"be experiencing"	"QUANT_O_1 tinnitus"	,(+,CT),NONE
+
+46,"	An additional, longer Mg-F interaction completes a distorted, axially extended octahedron (Fig. 5)."
+,"octahedron"	"is"	"Fig. QUANT_O_1"	,(+,CT),NONE
+
+47,	The nitride halides are essentially ionic and exhibit weak temperature independent paramagnetic behaviour.
+,"nitride halides"	"are"	"ionic"	,(+,CT),NONE
+,"nitride halides"	"exhibit"	"weak temperature independent paramagnetic behaviour"	,(+,CT),NONE
+
+48,"	The spectral theory of matrix powers and the theory of matrix core is developed in max algebra and in nonnegative linear algebra simultaneously wherever possible, in order to unify and compare both versions of the same theory."
+,"spectral theory of matrix powers"	"is developed in"	"max algebra"	,(+,CT),NONE
+,"spectral theory of matrix powers"	"is developed in"	"nonnegative linear algebra"	,(+,CT),NONE
+,"theory of matrix core"	"is developed in"	"max algebra"	,(+,CT),NONE
+,"theory of matrix core"	"is developed in"	"nonnegative linear algebra"	,(+,CT),NONE
+,"spectral theory of matrix powers"	"is developed in max algebra wherever"	"possible"	,(+,CT),NONE
+,"spectral theory of matrix powers"	"is developed in nonnegative linear algebra wherever"	"possible"	,(+,CT),NONE
+,"theory of matrix core"	"is developed in max algebra wherever"	"possible"	,(+,CT),NONE
+,"theory of matrix core"	"is developed in nonnegative linear algebra wherever"	"possible"	,(+,CT),NONE
+,"spectral theory of matrix powers"	"is developed in max algebra in to unify versions of"	"same theory"	,(+,CT),NONE
+,"spectral theory of matrix powers"	"is developed in max algebra"	"compare"	,(+,CT),NONE
+,"spectral theory of matrix powers"	"is developed in nonnegative linear algebra in to unify versions of"	"same theory"	,(+,CT),NONE
+,"spectral theory of matrix powers"	"is developed in nonnegative linear algebra"	"compare"	,(+,CT),NONE
+,"theory of matrix core"	"is developed in max algebra in to unify versions of"	"same theory"	,(+,CT),NONE
+,"theory of matrix core"	"is developed in max algebra"	"compare"	,(+,CT),NONE
+,"theory of matrix core"	"is developed in nonnegative linear algebra in to unify versions of"	"same theory"	,(+,CT),NONE
+,"theory of matrix core"	"is developed in nonnegative linear algebra"	"compare"	,(+,CT),NONE
+
+49,"	Based on this, we describe the set of extremal rays of the core."
+,"we"	"describe set of extremal rays of core Based on"	"this"	,(+,CT),NONE
+,"we"	"describe"	"set of extremal rays of core"	,(+,CT),NONE
+
+50,	The illite crystallinity proxies both show sharp increases above the depositional hiatus between 760cmbsf and 835cmbsf from 0.26 to 0.37 FHWM ∆2°θ and 0.40 to 0.57 I-Breadth ∆2°θ (i.e. lower crystallinity).
+,"illite crystallinity proxies"	"show sharp increases above depositional hiatus between QUANT_R_1 and QUANT_R_2 from"	"QUANT_O_1 to QUANT_O_2 FHWM ∆ QUANT_O_3 θ"	,(+,CT),NONE
+,"illite crystallinity proxies"	"show sharp increases above depositional hiatus between QUANT_R_1 and QUANT_R_2 from"	"QUANT_O_1 to QUANT_O_2"	,(+,CT),NONE
+,"QUANT_S_1 θ"	"is"	"lower crystallinity"	,(+,CT),NONE
+
+51,"	At Indus-23 a possible depositional hiatus in the Mid Holocene is identified at ~640cmbsf below the present day seafloor (Fig. 4) (Limmer et al., 2012)."
+,"possible depositional hiatus in Mid Holocene"	"is identified at QUANT_R_1 640cmbsf below the present day seafloor At"	"Indus-23"	,(+,CT),NONE
+,"possible depositional hiatus in Mid Holocene"	"is identified at QUANT_O_1 640cmbsf below"	"the present day seafloor"	,(+,CT),NONE
+,"the present day seafloor"	"is"	"Fig. QUANT_O_1"	,(+,CT),NONE
+
+52,	The negative relationships observed between both root dry weight and microbial biomass-C with aggregate stability were not anticipated.
+,"negative relationships"	"be observed between root dry weight and microbial biomass-C with"	"aggregate stability"	,(+,CT),NONE
+,"negative relationships observed between root dry weight and microbial biomass-C with aggregate stability"	"were anticipated"	,(-,CT),NONE
+
+53,	Soil aggregate characteristics
+
+54,"	All model normals, and all normals determined using the two approaches described below, were defined to point out into magnetosheath, away from Saturn."
+,"QUANT_S_1 model normals"	"were defined to point out into magnetosheath away from"	"Saturn"	,(+,CT),NONE
+,"QUANT_S_1 normals determined using QUANT_S_2 approaches described below"	"were defined to point out into magnetosheath away from"	"Saturn"	,(+,CT),NONE
+,"QUANT_S_1 model normals"	"were defined to point out into"	"magnetosheath"	,(+,CT),NONE
+,"QUANT_S_1 normals determined using QUANT_S_2 approaches described below"	"were defined to point out into"	"magnetosheath"	,(+,CT),NONE
+
+55,"	At some of the crossings the minimum variance direction was poorly defined, particularly in the cases of a ratio approaching 1."
+,"minimum variance direction"	"was defined in cases of"	"ratio approaching QUANT_O_1"	,(+,CT),NONE
+,"ratio"	"be approaching"	"QUANT_O_1"	,(+,CT),NONE
+
+56,"	The standard observing mode used during the period considered in this study was a scan in decreasing energy through 96 equal logarithmic steps, observing for 250ms at each."
+,"standard observing mode"	"be used during period considered in"	"study"	,(+,CT),NONE
+,"period"	"be considered in"	"study"	,(+,CT),NONE
+,"standard observing mode used during period considered in study"	"was scan in decreasing energy through QUANT_R_1 equal logarithmic steps"	"observing for 250ms at QUANT_O_1"	,(+,CT),NONE
+,"standard observing mode used during period considered in study"	"was scan in decreasing energy through"	"QUANT_O_1 equal logarithmic steps"	,(+,CT),NONE
+,"standard observing mode used during period considered in study"	"be observing for 250ms at"	"QUANT_O_1"	,(+,CT),NONE
+
+57,	The resulting data were then divided into four bins depending upon the direction of travel of the spacecraft;•
+,"resulting data"	"were divided into QUANT_R_1 bins"	"depending upon direction of travel of spacecraft"	,(+,CT),NONE
+,"resulting data"	"were divided into"	"QUANT_O_1 bins"	,(+,CT),NONE
+
+58,"	For the Earth, modelling by Newell et al. (2009), shows that diffuse aurora may account for 70% of the precipitating particle energy flux into the high-latitude ionosphere."
+,"diffuse aurora"	"account for QUANT_R_1 of precipitating particle energy flux into"	"high-latitude ionosphere"	,(+,PS),(modelling by Newell et, (+,CT))
+,"diffuse aurora"	"account for QUANT_O_1 of"	"precipitating particle energy flux"	,(+,PS),(modelling by Newell et, (+,CT))
+
+59,"	Previous studies of ""inverted-V"" signatures using ELS and IMA were restricted by an earlier energy table of IMA before May 2007, which did not adequately resolve ion measurements below 50 eV."
+,"inverted-V signatures"	"be using"	"ELS"	,(+,CT),NONE
+,"inverted-V signatures"	"be using"	"IMA"	,(+,CT),NONE
+,"Previous studies of inverted-V signatures using ELS"	"were restricted by earlier energy table of IMA before"	"May 2007"	,(+,CT),NONE
+,"Previous studies of inverted-V signatures using IMA"	"were restricted by earlier energy table of IMA before"	"May 2007"	,(+,CT),NONE
+,"Previous studies of inverted-V signatures using ELS"	"were restricted by earlier energy table of"	"IMA"	,(+,CT),NONE
+,"Previous studies of inverted-V signatures using IMA"	"were restricted by earlier energy table of"	"IMA"	,(+,CT),NONE
+,"May 2007"	"did resolve ion measurements below"	"QUANT_O_1 eV"	,(-,CT),NONE
+
+60,"	They found that, for compressions, there was a net transfer of power from magnetosphere to planet of ~325TW, due to the expected super-corotation of magnetospheric plasma."
+,"net transfer of power from magnetosphere to planet of ~ 325TW due to expected super-corotation of magnetospheric plasma"	"there was for"	"compressions"	,(+,CT),NONE
+,"net transfer of power from magnetosphere to planet of ~ 325TW due to expected super-corotation of magnetospheric plasma"	"there was"	,(+,CT),NONE
+
+61,"	As a consequence, heat dissipated as Joule heating doubles, positive ion drag energy decreases by ~70% and negative ion drag energy increases by two orders of magnitude."
+,"heat"	"dissipated as Joule heating doubles As"	"consequence"	,(+,CT),NONE
+,"Joule heating"	"doubles"	,(+,CT),NONE
+
+62,	The glass transition temperature of the unmodified epoxy polymer was 148 °C.
+,"glass transition temperature of unmodified epoxy polymer"	"was"	"QUANT_O_1 °C"	,(+,CT),NONE
+
+63,"	Samples with a size of 40 × 40 × 3 mm3 were used, and loaded in compression between two parallel 12 mm wide dies."
+,"Samples with size of QUANT_S_1 × QUANT_S_2 mm3"	"were used"	,(+,CT),NONE
+,"loaded in compression between QUANT_S_1 parallel QUANT_S_2 mm wide"	"dies"	,(+,CT),NONE
+
+64,"	The energy contribution from plastic shear-band yielding, ΔGs, initiated by the presence of the particles is related to the size of the plastic zone from Ref."
+,"plastic shear-band yielding initiated by presence of particles"	"is"	"ΔGs"	,(+,CT),NONE
+,"plastic shear-band yielding"	"be initiated by presence of"	"particles"	,(+,CT),NONE
+,"energy contribution from plastic shear-band yielding initiated by presence of particles"	"is related to"	"size of plastic zone from Ref"	,(+,CT),NONE
+
+65,"	[13], to be:(7)F′(ry)=ry[(4π3vf)1/3(1-rpry)3-85(1-rpry)(rpry)5/2-1635(rpry)7/2-2(1-rpry)2+1635]where the rp is the radius of the particle and ry is the radius of the plane-strain plastic zone at the crack tip at fracture in the nanoparticle-modified polymer."
+,"QUANT_S_1 F ′"	"is"	"ry"	,(+,CT),NONE
+,"4π3vf QUANT_S_1 -RSB-"	"is"	"rpry"	,(+,CT),NONE
+,"4π3vf QUANT_S_1 -RSB-"	"is"	"1-rpry"	,(+,CT),NONE
+,"rp"	"is radius of"	"particle 4π3vf QUANT_O_1 -RSB-"	,(+,CT),NONE
+,"rp"	"is ry of"	"particle 4π3vf QUANT_O_1 -RSB-"	,(+,CT),NONE
+,"rp"	"is"	"radius 4π3vf QUANT_O_1 -RSB-"	,(+,CT),NONE
+,"rp"	"is"	"ry 4π3vf QUANT_O_1 -RSB-"	,(+,CT),NONE
+,"4π3vf QUANT_S_1 -RSB-"	"is -LSB- radius of"	"plane-strain plastic zone"	,(+,CT),NONE
+,"4π3vf QUANT_S_1 -RSB-"	"is -LSB- radius at"	"crack tip"	,(+,CT),NONE
+,"4π3vf QUANT_S_1 -RSB-"	"is -LSB- radius at"	"fracture"	,(+,CT),NONE
+,"4π3vf QUANT_S_1 -RSB-"	"is -LSB- radius in"	"nanoparticle-modified polymer"	,(+,CT),NONE
+,"4π3vf QUANT_S_1 -RSB-"	"is"	"-LSB- radius"	,(+,CT),NONE
+
+66,"	Possible explanations include the accumulated influence of isotopic discrimination during selective microbial decomposition of specific substrates within the SOM (Nadelhoffer and Fry, 1988; Buchmann et al., 1997; Lin et al., 1999), and more importantly by the increased contribution of microbially derived C to SOM with depth (Ehleringer et al., 2000; Högberg et al., 2005)."
+,"Possible explanations"	"include"	"accumulated influence of isotopic discrimination during selective microbial decomposition of specific substrates within SOM"	,(+,CT),NONE
+,"Possible explanations"	"include"	"more importantly by increased contribution of microbially derived C to SOM with depth"	,(+,CT),NONE
+,"SOM"	"is"	"Nadelhoffer"	,(+,CT),NONE
+,"SOM"	"is"	"Fry"	,(+,CT),NONE
+,"Nadelhoffer"	"is"	"SOM"	,(+,CT),NONE
+,"Fry"	"is"	"SOM"	,(+,CT),NONE
+
+67,	δ13C values (‰) of CO2 samples analysed by the CRDS were calculated using the Pee Dee Belemnite (PDB) standard.
+,"Dee Belemnite"	"is"	"Pee"	,(+,CT),NONE
+,"δ13C values of CO2 samples analysed by CRDS"	"is"	"‰"	,(+,CT),NONE
+,"CO2 samples"	"be analysed by"	"CRDS"	,(+,CT),NONE
+,"δ13C values of CO2 samples analysed by CRDS"	"were calculated"	"using Dee Belemnite standard"	,(+,CT),NONE
+,"Dee Belemnite"	"is"	"PDB"	,(+,CT),NONE
+
+68,	Gain and offset correction was applied to all of the diodes within the detector by applying a black (offset) and white (gain) reference to adjust for exposure variations.
+,"Gain"	"was applied to QUANT_R_1 of diodes within"	"detector"	,(+,CT),NONE
+,"offset correction"	"was applied to QUANT_R_1 of diodes within"	"detector"	,(+,CT),NONE
+,"Gain"	"was applied to QUANT_R_1 of diodes by"	"applying black reference to adjust for exposure variations"	,(+,CT),NONE
+,"Gain"	"was applied to QUANT_R_1 of diodes by"	"applying white reference to adjust for exposure variations"	,(+,CT),NONE
+,"offset correction"	"was applied to QUANT_R_1 of diodes by"	"applying black reference to adjust for exposure variations"	,(+,CT),NONE
+,"offset correction"	"was applied to QUANT_R_1 of diodes by"	"applying white reference to adjust for exposure variations"	,(+,CT),NONE
+,"Gain"	"was applied to QUANT_O_1 of"	"diodes"	,(+,CT),NONE
+,"offset correction"	"was applied to QUANT_O_1 of"	"diodes"	,(+,CT),NONE
+,"black reference"	"be adjust for"	"exposure variations"	,(+,CT),NONE
+,"white reference"	"be adjust for"	"exposure variations"	,(+,CT),NONE
+
+69,	Smaller aggregates were not affected by AMF species.
+,"Smaller aggregates"	"were affected by"	"AMF species"	,(-,CT),NONE
+
+70,"	The yield decline usually occurs after two or three years of monoculture (as in this study), depending on crops, number of years and soil, and is usually attributed to the increase of yield-debilitating populations and switches of underground microbial communities (van Elsas et al., 2002)."
+,"Elsas"	"is"	"van"	,(+,CT),NONE
+,"yield decline"	"occurs after"	"QUANT_O_1 years of monoculture as in study"	,(+,CT),NONE
+,"yield decline"	"occurs after"	"QUANT_O_1 years of monoculture as in study"	,(+,CT),NONE
+,"yield decline"	"occurs after QUANT_R_1 years of monoculture as in study depending on"	"crops"	,(+,CT),NONE
+,"yield decline"	"occurs after QUANT_R_1 years of monoculture as in study depending on"	"crops"	,(+,CT),NONE
+
+71,"	For a complex natural community, it is impossible that every environmental element encourages every community member: majority makes senses."
+,"QUANT_S_1 environmental element"	"encourages"	"QUANT_O_1 community member"	,(+,CT),NONE
+,"majority"	"makes"	"senses"	,(+,CT),NONE
+
+72,"	The high performance properties are due to the ability to dope the SnO2 framework, enhancing the intrinsic n-type semiconducting properties by an order of magnitude or more [1]."
+,"high performance properties"	"are due to"	"ability to dope SnO2 framework"	,(+,CT),NONE
+,"high performance properties"	"are"	"due"	,(+,CT),NONE
+,"ability"	"be dope"	"SnO2 framework"	,(+,CT),NONE
+
+73,	Hall Effect measurements identified all films as n-type semiconductors.
+,"Hall Effect measurements"	"identified QUANT_R_1 films as"	"n-type semiconductors"	,(+,CT),NONE
+,"Hall Effect measurements"	"identified"	"QUANT_O_1 films"	,(+,CT),NONE
+
+74,"	∀x, y∈V: x depends on a implies y depends on a and a depends on x implies a depends on y."
+,"∀ x"	"is"	"y QUANT_O_1 V"	,(+,CT),NONE
+,"depends on implies y depends on"	"is"	"y QUANT_O_1 V"	,(+,CT),NONE
+,"depends on implies y depends on depends"	"is"	"y QUANT_O_1 V"	,(+,CT),NONE
+,"y"	"depends on"	"depends"	,(+,CT),NONE
+
+75,	The paper also discusses inter-cluster dependence and how mutual dependencies between clusters may be exploited to reveal large dependence structure that form the basis of reverse engineering efforts.
+,"paper"	"discusses"	"inter-cluster dependence"	,(+,CT),NONE
+,"paper"	"discusses how mutual dependencies between"	"clusters"	,(+,CT),NONE
+,"large dependence structure"	"form basis of"	"reverse engineering efforts"	,(+,CT),NONE
+
+76,"	In addition to projecting the variables in f, as established in Proposition 1, the hash projection includes a variable computed by h that identifies the global state and is used to detect cycles in the trace."
+,"hash projection"	"includes variable"	"Proposition QUANT_O_1"	,(+,CT),NONE
+,"computed by h"	"identifies"	"global state"	,(+,CT),NONE
+,"computed by h"	"is used to detect cycles in"	"trace"	,(+,CT),NONE
+,"computed by h"	"is used to detect"	"cycles"	,(+,CT),NONE
+
+77,	The simplest abstraction method generates a Spin state with only some (a small number) of the variables of the current Java state.
+,"simplest abstraction method"	"generates Spin state with"	"QUANT_O_1 of variables of current Java state"	,(+,CT),NONE
+,"simplest abstraction method"	"generates"	"Spin state"	,(+,CT),NONE
+,"QUANT_S_1 of variables of current Java state"	"is"	"small number"	,(+,CT),NONE
+
+78,"	Our results show that extended culture techniques and confocal microscopy together can identify live bacteria in 92% of cases, and we found biofilms in just under half of effusions."
+,"Our"	"has"	"results"	,(+,CT),NONE
+,"extended culture techniques together"	"identify live bacteria in QUANT_O_1 of"	"cases"	,(+,PS),(Our results, (+,CT))
+,"extended culture techniques together"	"identify"	"live bacteria"	,(+,PS),(Our results, (+,CT))
+,"we"	"found biofilms in just under QUANT_O_1 of"	"effusions"	,(+,CT),(Our results, (+,CT))
+,"we"	"found"	"biofilms"	,(+,CT),(Our results, (+,CT))
+,"confocal microscopy"	"identify live bacteria in QUANT_O_1 of"	"cases"	,(+,PS),NONE
+,"confocal microscopy"	"identify"	"live bacteria"	,(+,PS),NONE
+
+79,"	Variation in prevalence of OME over time has been previously documented [16], and may be due to patterns of antibiotic use or vaccination, particularly with the introduction of vaccines against H. influenzae type b and S. pneumoniae."
+,"Variation in prevalence of OME over time"	"has been documented"	"previously"	,(+,CT),NONE
+,"Variation in prevalence of OME over time"	"has been documented"	,(+,CT),NONE
+,"Variation in prevalence of OME over time"	"be due to patterns of antibiotic use particularly with"	"introduction of vaccines against H. influenzae type b"	,(+,PS),NONE
+,"Variation in prevalence of OME over time"	"be due to patterns of antibiotic use particularly with"	"introduction of vaccines against S. pneumoniae"	,(+,PS),NONE
+,"Variation in prevalence of OME over time"	"be due to patterns of vaccination particularly with"	"introduction of vaccines against H. influenzae type b"	,(+,PS),NONE
+,"Variation in prevalence of OME over time"	"be due to patterns of vaccination particularly with"	"introduction of vaccines against S. pneumoniae"	,(+,PS),NONE
+,"Variation in prevalence of OME over time"	"be"	"due to patterns of antibiotic use"	,(+,PS),NONE
+,"Variation in prevalence of OME over time"	"be"	"due to patterns of vaccination"	,(+,PS),NONE
+
+80,	Most applications are confined to flows on two-dimensional (2D) surfaces where the LCS are characterized as curves.
+,"Most applications"	"are confined to flows on"	"two-dimensional surfaces"	,(+,CT),NONE
+,"LCS"	"are characterized as curves"	"two-dimensional surfaces"	,(+,CT),NONE
+,"LCS"	"are characterized"	"two-dimensional surfaces"	,(+,CT),NONE
+
+81,"	We first consider a series of cases with Sv=A=[0.1,0.2,…,1.1], keeping B=C fixed at a value of 0.8 for max(Sw)=1.13."
+,"We"	"consider series of"	"cases"	,(+,CT),NONE
+,"B = C"	"fixed at"	"value of QUANT_O_1 for max ="	,(+,CT),NONE
+,"max ="	"is"	"Sw"	,(+,CT),NONE
+
+82,	The XPS data clearly indicates that the HA nanoparticles used in this experiment are deficient in calcium (Ca/P ratio=1.37).
+,"HA nanoparticles"	"be used in"	"experiment"	,(+,CT),NONE
+,"HA nanoparticles used in experiment"	"are deficient in"	"calcium"	,(+,CT),NONE
+,"HA nanoparticles used in experiment"	"are"	"deficient"	,(+,CT),NONE
+
+83,"	In sintering processes, small individual structures merge together by diffusion to form bigger structures."
+,"small individual structures"	"merge to form bigger structures In"	"sintering processes"	,(+,CT),NONE
+,"small individual structures"	"merge to form"	"bigger structures"	,(+,CT),NONE
+,"small individual structures"	"merge by diffusion to form"	"bigger structures"	,(+,CT),NONE
+
+84,	Solute segregation around screw dislocation core was similar to radiation induced segregation.
+,"Solute segregation around screw dislocation core"	"was similar to"	"radiation"	,(+,CT),NONE
+,"Solute segregation around screw dislocation core"	"was"	"similar"	,(+,CT),NONE
+
+85,	The defects are linear and extended in the [101¯] direction.
+,"defects"	"are"	"linear"	,(+,CT),NONE
+,"defects"	"extended in"	"direction"	,(+,CT),NONE
+
+86,"	This coupling between the rotational direction and the terminal plate horizontal speed can be explained by the presence of autorotational drag, lift and torque."
+,"coupling between rotational direction and terminal plate horizontal speed"	"be explained by presence of"	"autorotational drag"	,(+,PS),NONE
+,"coupling between rotational direction and terminal plate horizontal speed"	"be explained by presence of"	"lift"	,(+,PS),NONE
+,"coupling between rotational direction and terminal plate horizontal speed"	"be explained by presence of"	"torque"	,(+,PS),NONE
+
+87,"	In addition, Tachikawa used a Froude number, Fr=UwgL,and a dimensionless mass moment of inertia parameter, Δ=mL2I,where L is the characteristic length of the plate and I is the mass moment of inertia."
+,"Tachikawa"	"used Froude number In"	"addition"	,(+,CT),NONE
+,"Tachikawa"	"used Fr = UwgL In"	"addition"	,(+,CT),NONE
+,"Tachikawa"	"used dimensionless mass moment of inertia parameter In"	"addition"	,(+,CT),NONE
+,"Tachikawa"	"used"	"Froude number"	,(+,CT),NONE
+,"Tachikawa"	"used"	"Fr = UwgL"	,(+,CT),NONE
+,"Tachikawa"	"used dimensionless mass moment of"	"inertia parameter"	,(+,CT),NONE
+,"Froude number"	"is"	"Δ"	,(+,CT),NONE
+,"Fr = UwgL"	"is"	"Δ"	,(+,CT),NONE
+,"dimensionless mass moment of inertia parameter"	"is"	"Δ"	,(+,CT),NONE
+,"L"	"is characteristic length of"	"plate mL2I"	,(+,CT),NONE
+,"L"	"is"	"characteristic length mL2I"	,(+,CT),NONE
+,"I"	"is mass moment of"	"inertia"	,(+,CT),NONE
+,"I"	"is"	"mass moment"	,(+,CT),NONE
+
+88,"	Dispersal of pollutants in urban areas is a well-studied area and data for this, and for studies of rooftop wind turbines, may be obtained using conventional instrumented masts, or roof-mounted equipment."
+,"Dispersal of pollutants in urban areas"	"is well-studied area for"	"this"	,(+,CT),NONE
+,"Dispersal of pollutants in urban areas"	"is data for"	"this"	,(+,CT),NONE
+,"Dispersal of pollutants in urban areas"	"is"	"well-studied area"	,(+,CT),NONE
+,"Dispersal of pollutants in urban areas"	"is"	"data"	,(+,CT),NONE
+,"Dispersal of pollutants in urban areas"	"be obtained using conventional instrumented masts for studies of"	"rooftop wind turbines"	,(+,PS),NONE
+,"Dispersal of pollutants in urban areas"	"be obtained using roof-mounted equipment for studies of"	"rooftop wind turbines"	,(+,PS),NONE
+,"Dispersal of pollutants in urban areas"	"be obtained"	"using conventional instrumented masts"	,(+,PS),NONE
+,"Dispersal of pollutants in urban areas"	"be obtained"	"using roof-mounted equipment"	,(+,PS),NONE
+
+89,"	At higher wind speeds there are few data, so it is not possible to draw a robust conclusion for these conditions."
+,"QUANT_S_1 data"	"there are At"	"higher wind speeds"	,(+,CT),NONE
+,"QUANT_S_1 data"	"there are"	,(+,CT),NONE
+,"it"	"is"	"possible to draw robust conclusion for conditions"	,(-,CT),NONE
+,"it"	"is"	"possible to draw robust conclusion"	,(-,CT),NONE
+
+90,"	As a result, concentration patterns are highly variable in time and mean profiles in the near field are strongly non-Gaussian."
+,"concentration patterns"	"are variable As"	"result"	,(+,CT),NONE
+,"concentration patterns"	"are"	"variable"	,(+,CT),NONE
+,"concentration patterns"	"are variable in"	"time"	,(+,CT),NONE
+,"profiles in near field"	"are"	"non-Gaussian"	,(+,CT),NONE
+
+91,"	Specifically, the main questions investigated here are the following:•"
+,"main questions"	"be investigated"	"here"	,(+,CT),NONE
+,"main questions investigated here"	"are"	"following"	,(+,CT),NONE
+
+92,	The levels are ordered in a way such that lower levels offer faster and more local solutions than higher ones.
+,"levels"	"are ordered in"	"way"	,(+,CT),NONE
+,"lower levels"	"offer faster solutions than"	"higher ones"	,(+,CT),NONE
+,"lower levels"	"offer more local solutions than"	"higher ones"	,(+,CT),NONE
+
+93,"	Therefore, a mechanism is required for the automatic adaptation between different templates without changing the templates themselves."
+,"mechanism"	"is required for automatic adaptation between"	"different templates"	,(+,CT),NONE
+,"mechanism"	"is required for automatic adaptation between different templates without"	"changing templates themselves"	,(+,CT),NONE
+
+94,	The speedup of a program on these machines depends on how well the latency is hidden.
+,"latency"	"is hidden how"	"well"	,(+,CT),NONE
+,"latency"	"is hidden"	,(+,CT),NONE
+
+95,	Effect of the number of threads: the fact that the TMM model incorporates the number of threads per processor in the model is the primary differentiator between the PRAM and TMM models.
+,"TMM model"	"incorporates number of threads per processor in"	"model"	,(+,CT),NONE
+,"TMM model"	"incorporates"	"number of threads per processor"	,(+,CT),NONE
+,"fact that TMM model incorporates number of threads per processor in model"	"is primary differentiator between"	"PRAM and TMM models"	,(+,CT),NONE
+,"fact that TMM model incorporates number of threads per processor in model"	"is"	"primary differentiator"	,(+,CT),NONE
+
+96,	It employs analogue circuits to implement most of the central dynamic functions.
+,"It"	"employs analogue circuits to implement most of"	"central dynamic functions"	,(+,CT),NONE
+,"It"	"employs"	"analogue circuits"	,(+,CT),NONE
+,"It"	"be implement most of"	"central dynamic functions"	,(+,CT),NONE
+
+97,	Each table entry has its own bitmap mask that will be applied to the source address before it is compared with the table entries in order.
+,"QUANT_S_1 table entry"	"has"	"own bitmap mask"	,(+,CT),NONE
+,"its"	"has"	"own bitmap mask"	,(+,CT),NONE
+,"own bitmap mask"	"be applied to"	"source address"	,(+,PS),NONE
+,"it"	"is compared with table entries in"	"order"	,(+,CT),NONE
+
+98,"	The Nicaragua site was located in Masatepe (11° 53′ 54″ N, 86° 08′ 56″ W) at 455m above sea level."
+,"Nicaragua site"	"was located in"	"Masatepe at 455m above sea level"	,(+,CT),NONE
+,"Nicaragua site"	"was"	"located"	,(+,CT),NONE
+,"′ QUANT_S_1 N"	"is"	"QUANT_O_1 ′ QUANT_O_2 W"	,(+,CT),NONE
+
+99,	This further emphasises the importance both of conservation of tree biomass in established forest and agroforestry systems and of avoiding practices that reduce stocks of SOC.
+,"This"	"emphasises importance"	"further"	,(+,CT),NONE
+,"This"	"emphasises"	"importance"	,(+,CT),NONE
+,"practices"	"reduce stocks of"	"SOC"	,(+,CT),NONE
+
+100,"	While these modifications would be required to optimize the present protocol to ensure maximum yields of cells, this study represents a proof of principle that hiPSC can be expanded in clumps using automation without loss of quality."
+,"modifications"	"be required to optimize"	"present protocol to ensure maximum yields of cells"	,(+,PS),NONE
+,"modifications"	"be required to optimize"	"present protocol"	,(+,PS),NONE
+,"to optimize present protocol"	"be ensure maximum yields of"	"cells"	,(+,CT),NONE
+,"hiPSC"	"be expanded in clumps"	"using automation without loss of quality"	,(+,PS),NONE
+,"hiPSC"	"be expanded in clumps"	"using automation"	,(+,PS),NONE
+,"hiPSC"	"be expanded"	"using automation without loss of quality"	,(+,PS),NONE
+,"hiPSC"	"be expanded"	"using automation"	,(+,PS),NONE
+
+101,	Investigating the feasibility of scale up and automation of human induced pluripotent stem cells cultured in aggregates in feeder free conditions
+,"human induced pluripotent stem cells"	"be cultured in aggregates in"	"feeder free conditions"	,(+,CT),NONE
+
+102,"	A role in biotic stress was also demonstrated by ectopic expression of the apple gene for SPERMIDINE SYNTHETASE (SPDS1) in sweet orange, which reduced susceptibility to canker caused by Xanthomonas axonopodis pv."
+,"role in biotic stress"	"was demonstrated by"	"ectopic expression of apple gene for SPERMIDINE SYNTHETASE in sweet orange"	,(+,CT),NONE
+,"SPERMIDINE SYNTHETASE in sweet orange"	"is"	"SPDS1"	,(+,CT),NONE
+,"SPERMIDINE SYNTHETASE in sweet orange"	"reduced"	"susceptibility to canker caused by Xanthomonas axonopodis pv"	,(+,CT),NONE
+,"canker"	"be caused by"	"Xanthomonas axonopodis pv"	,(+,CT),NONE
+
+103,	The wild-type trees had a net growth that was 13% less than those over-expressing the cry toxins from Bt.
+,"wild-type trees"	"had"	"net growth"	,(+,CT),NONE
+,"net growth"	"was less"	"QUANT_O_1"	,(+,CT),NONE
+,"net growth"	"was less than"	"over-expressing cry"	,(+,CT),NONE
+,"net growth"	"was"	"less"	,(+,CT),NONE
+,"those"	"be over-expressing"	"cry"	,(+,CT),NONE
+
+104,"	90×90μm and measured it with 512×512 pixels resolution, giving a pixel to pixel distance of 176nm, comparable to the 166nm for the optical profiler."
+,"QUANT_S_1 90μm comparable to 166nm for optical profiler"	"be giving pixel to pixel distance of"	"176nm"	,(+,CT),NONE
+,"measured it with QUANT_S_1 × QUANT_S_2 pixels resolution"	"be giving pixel to pixel distance of"	"176nm"	,(+,CT),NONE
+
+105,"	Using Fresnel equations and optical constants from literature [33,34] we can easily calculate that, for instance, as little as 14nm of gold gives a perpendicular reflectance R=0.51 for a wavelength of 500nm, which is sufficient for characterization using an optical profiler and the vertical scan interference method."
+,"as little as 14nm of gold"	"gives perpendicular reflectance R = for"	"instance"	,(+,CT),NONE
+,"as little as 14nm of gold"	"gives perpendicular reflectance R = for wavelength of"	"500nm"	,(+,CT),NONE
+,"as little as 14nm of gold"	"gives"	"perpendicular reflectance R ="	,(+,CT),NONE
+,"wavelength of 500nm"	"is sufficient for"	"characterization using optical profiler"	,(+,CT),NONE
+,"wavelength of 500nm"	"is sufficient for"	"characterization using vertical scan interference method"	,(+,CT),NONE
+,"wavelength of 500nm"	"is"	"sufficient using optical profiler"	,(+,CT),NONE
+,"wavelength of 500nm"	"is"	"sufficient using vertical scan interference method"	,(+,CT),NONE
+
+106,"	A comparison of shoot P concentration between C. genistoides grown in 1997 and a non-legume, Gnidia anomala showed no differences, younger shoots of the legume however accumulated greater P concentration compared to another non-legume, Tetraria bromoides (Table 2)."
+,"comparison of shoot P concentration between C. genistoides grown in 1997 and non-legume Gnidia anomala showed QUANT_S_2 differences"	"is"	"younger shoots of legume however accumulated greater P concentration compared to another non-legume"	,(+,CT),NONE
+,"C. genistoides and non-legume Gnidia anomala showed QUANT_S_1 differences"	"be grown in"	"1997"	,(+,CT),NONE
+,"Gnidia anomala"	"showed differences"	"non-legume"	,(-,CT),NONE
+,"Gnidia anomala"	"showed"	"QUANT_O_1 differences"	,(+,CT),NONE
+,"younger shoots of legume"	"be accumulated"	"greater P concentration compared to another non-legume"	,(+,CT),NONE
+
+107,	A similar assay of enzymes was done for C. subternata planted at Kanetberg in 1999 and 2002.
+,"similar assay of enzymes"	"was done for"	"C. subternata planted at Kanetberg in 1999"	,(+,CT),NONE
+,"similar assay of enzymes"	"was done for"	"C. subternata planted at Kanetberg in 2002"	,(+,CT),NONE
+
+108,"	Similar to that of the CDC layer, the two contributions at low binding energy are assigned to the sp2 and sp3 C."
+,"QUANT_S_1 contributions at low binding energy"	"are assigned to sp2 C."	"Similar to that of CDC layer"	,(+,CT),NONE
+,"QUANT_S_1 contributions at low binding energy"	"are assigned to sp3 C."	"Similar to that of CDC layer"	,(+,CT),NONE
+,"QUANT_S_1 contributions at low binding energy"	"are assigned to"	"sp2 C."	,(+,CT),NONE
+,"QUANT_S_1 contributions at low binding energy"	"are assigned to"	"sp3 C."	,(+,CT),NONE
+
+109,	The lubrication failure is attributed to the high porosity and the low strength of CDC coating.
+,"lubrication failure"	"is attributed to"	"high porosity"	,(+,CT),NONE
+,"lubrication failure"	"is attributed to low strength of"	"CDC coating"	,(+,CT),NONE
+
+110,	The experimental area was under glyphosate-resistant soybean production for three years prior to this study and was planted each year in no-till.
+,"experimental area"	"was under glyphosate-resistant soybean production for"	"QUANT_O_1 years prior to study"	,(+,CT),NONE
+,"experimental area"	"was under"	"glyphosate-resistant soybean production"	,(+,CT),NONE
+,"experimental area"	"was planted QUANT_R_1 year in"	"no-till"	,(+,CT),NONE
+,"experimental area"	"was planted"	"QUANT_O_1 year"	,(+,CT),NONE
+
+111,	Materials and methods
+
+112,"	We address the inconsistencies in and revisions of the tephrostratigraphies presented in prior literature, and discuss the challenges in correlating tephras and the limitations of the tephrostratigraphic record in this area."
+,"We"	"address inconsistencies"	"revisions of tephrostratigraphies presented in prior literature"	,(+,CT),NONE
+,"We"	"address"	"inconsistencies"	,(+,CT),NONE
+,"We"	"discuss challenges in"	"correlating tephras"	,(+,CT),NONE
+,"We"	"discuss"	"challenges in correlating limitations of tephrostratigraphic record in area"	,(+,CT),NONE
+,"tephrostratigraphies"	"be presented in"	"prior literature"	,(+,CT),NONE
+
+113,"	Accurate clast size measurement is thwarted further (especially close to the source volcano) by the deposition of clasts that are outliers to the main size distribution (Bonadonna et al., 2013), such as ballistic bombs, which can be problematic to distinguish from pumices, especially when both are degraded."
+,"Accurate clast size measurement"	"is thwarted"	"further especially close to source volcano by deposition of ballistic bombs"	,(+,CT),NONE
+,"clasts"	"are outliers to"	"main size distribution"	,(+,CT),NONE
+,"clasts"	"are"	"outliers"	,(+,CT),NONE
+,"ballistic bombs"	"be"	"problematic to distinguish from pumices"	,(+,PS),NONE
+,"both"	"are degraded"	"ballistic bombs"	,(+,CT),NONE
+
+114,"	The small increase in the intensity of this peak in the difference spectra upon increasing the H2 loading from 0.25 to 0.5 H2/Al suggests that the interacting site reaches saturation quickly, presumably owing to space constraints."
+,"H2"	"be loading from"	"QUANT_O_1 to QUANT_O_2 H2/Al"	,(+,CT),NONE
+,"interacting site"	"reaches"	"saturation owing presumably to space constraints"	,(+,CT),(The small increase in the intensity of this peak in the difference spectra upon increasing the H2 loading from 0.25 to 0.5 H2/Al, (+,PS))
+,"interacting site"	"reaches"	"saturation owing to space constraints"	,(+,CT),(The small increase in the intensity of this peak in the difference spectra upon increasing the H2 loading from 0.25 to 0.5 H2/Al, (+,PS))
+,"interacting site"	"reaches saturation"	"owing presumably to space constraints"	,(+,CT),(The small increase in the intensity of this peak in the difference spectra upon increasing the H2 loading from 0.25 to 0.5 H2/Al, (+,PS))
+,"interacting site"	"reaches saturation"	"owing to space constraints"	,(+,CT),(The small increase in the intensity of this peak in the difference spectra upon increasing the H2 loading from 0.25 to 0.5 H2/Al, (+,PS))
+
+115,"	In a typical gas adsorption experiment, ∼100mg of NOTT-300 was loaded into the IGA, and degassed at 120°C and high vacuum (10-10bar) for 1day to give fully desolvated NOTT-300."
+,"QUANT_S_1 100mg of NOTT-300"	"was loaded into IGA In"	"typical gas adsorption experiment"	,(+,CT),NONE
+,"QUANT_S_1 100mg of NOTT-300"	"was loaded into"	"IGA"	,(+,CT),NONE
+,"QUANT_S_1 100mg of NOTT-300"	"degassed at QUANT_R_1 °C for"	"QUANT_O_1"	,(+,CT),NONE
+,"QUANT_S_1 100mg of NOTT-300"	"degassed at high vacuum for"	"QUANT_O_1"	,(+,CT),NONE
+,"QUANT_S_1 100mg of NOTT-300"	"degassed at QUANT_R_1 °C to give"	"fully desolvated NOTT-300"	,(+,CT),NONE
+,"QUANT_S_1 100mg of NOTT-300"	"degassed at high vacuum to give"	"fully desolvated NOTT-300"	,(+,CT),NONE
+,"QUANT_S_1 100mg of NOTT-300"	"degassed at"	"QUANT_O_1 °C"	,(+,CT),NONE
+,"QUANT_S_1 100mg of NOTT-300"	"degassed at"	"high vacuum"	,(+,CT),NONE
+,"degassed at QUANT_S_1 °C for QUANT_S_2"	"be give"	"fully desolvated NOTT-300"	,(+,CT),NONE
+,"degassed at high vacuum for QUANT_S_1"	"be give"	"fully desolvated NOTT-300"	,(+,CT),NONE
+,"high vacuum"	"is"	"10-10bar"	,(+,CT),NONE
+
+116,	stable if it is both internally and externally stable.
+,"it"	"is"	"both internally stable"	,(+,CT),NONE
+,"it"	"is"	"both externally stable"	,(+,CT),NONE
+
+117,"	To make more precise observations about such a set, we need the notion of Hausdorff dimension, which we now introduce."
+,"we"	"need notion of Hausdorff dimension To make more precise observations about"	"such set"	,(+,CT),NONE
+,"we"	"need notion of"	"Hausdorff dimension"	,(+,CT),NONE
+,"we"	"introduce notion of"	"Hausdorff dimension"	,(+,CT),NONE
+
+118,"	The European Food Safety Authority (EFSA) set the BMDL0.1 value at 0.3 - 8μg/kg bw/day in 2010 (European Food Safety Authority, 2010)."
+,"European Food Safety Authority"	"is"	"EFSA"	,(+,CT),NONE
+,"European Food Safety Authority"	"set / BMDL0 QUANT_R_1 value at QUANT_O_1 kg bw/day in"	"2010"	,(+,CT),NONE
+,"European Food Safety Authority"	"set / BMDL0 QUANT_R_1 value kg bw/day in"	"2010"	,(+,CT),NONE
+
+119,	The inorganic arsenic intake of different age groups of children from rice-based baby food was also close to the lower BMDL0.1 value.
+,"inorganic arsenic intake of different age groups of children from rice-based baby food"	"was"	"close"	,(+,CT),NONE
+,"inorganic arsenic intake of different age groups of children from rice-based baby food"	"was close to"	"lower BMDL0 QUANT_O_1 value"	,(+,CT),NONE
+
+120,"	Clashindarroch forest was established from 1930 onwards (Forestry Commission, 1964)."
+,"Clashindarroch forest"	"was established from"	"1930 onwards"	,(+,CT),NONE
+,"1930 onwards"	"is"	"Forestry Commission"	,(+,CT),NONE
+
+121,"	No significant difference in regeneration densities was found between brown earth and peaty gley soils (F(1,3.95)=1.75, p=n.s.)."
+,"QUANT_S_1 significant difference in regeneration densities"	"was found between"	"brown earth and peaty gley soils"	,(+,CT),NONE
+,"F = p ="	"is"	"QUANT_O_1"	,(+,CT),NONE
+
+122,	The reservoir is constructed from Perspex and has inside dimensions of 983mm×394mm×832mm (length×width×height).
+,"reservoir"	"is constructed from"	"Perspex"	,(+,CT),NONE
+,"reservoir"	"has dimensions of"	"983mm"	,(+,CT),NONE
+
+123,"	O'Donoghue et al. (2010) presented turbulent kinetic energy results for their smooth and rough beaches, but were limited by measuring one component of velocity (u) only."
+,"presented turbulent kinetic energy"	"results for"	"smooth beaches"	,(+,CT),NONE
+,"presented turbulent kinetic energy"	"results for"	"rough beaches"	,(+,CT),NONE
+,"presented turbulent kinetic energy"	"were limited by measuring QUANT_O_1 component of"	"velocity only"	,(+,CT),NONE
+,"their"	"has"	"smooth beaches"	,(+,CT),NONE
+,"their"	"has"	"rough beaches"	,(+,CT),NONE
+,"velocity"	"is"	"u"	,(+,CT),NONE
+
+124,"	The time that the wetting front reaches the groundwater occurs slightly earlier in the numerical predictions than in the experimental results, e.g."
+,"wetting front"	"reaches"	"groundwater"	,(+,CT),NONE
+,"time that wetting front reaches groundwater"	"occurs"	"slightly earlier in numerical predictions than in experimental results"	,(+,CT),NONE
+
+125,"	The pressure build-up then drives the wetting front towards the bed surface causing exfiltration, i.e. water is returned to the surface flow through the volume flux shown in Eq. (1)."
+
+126,"	By applying this method, once the values of the auxiliary variable r¯˜*l are known, the values of the original variables r¯˜l at each stage of the Runge-Kutta method are computed by solving the following equation:(28)r≃*l=rl≃+H¯˜V¯˜′lin which V¯′l includes first and second derivative of r¯˜l/H¯˜ with respect to ξ1 and ξ2 and cross derivatives (see Appendix B)."
+,"once values of auxiliary variable r QUANT_S_1 l"	"are known By"	"applying method"	,(+,CT),NONE
+,"once values of auxiliary variable r QUANT_S_1 l"	"are known"	,(+,CT),NONE
+,"values of original variables r QUANT_S_1 ˜l at QUANT_S_2 stage of Runge-Kutta method"	"are computed by"	"solving following equation"	,(+,CT),NONE
+,"V QUANT_S_1 l"	"includes ′ lin first of"	"r QUANT_O_1 ˜l /"	,(+,CT),NONE
+,"V QUANT_S_1 l"	"includes ′ lin"	"second"	,(+,CT),NONE
+
+127,	The waves propagating on the part of the domain characterised by the linearly varying bottom elevation (section B-B in Fig. 17) and water depths lower than those present at the rip channel (section A-A in Fig. 17) start to break earlier than the waves propagating on the rip channel.
+,"waves"	"be propagating on"	"part of domain characterised by linearly varying bottom elevation"	,(+,CT),NONE
+,"waves"	"be propagating on"	"part of domain characterised by water depths lower than present at rip channel"	,(+,CT),NONE
+,"domain"	"be characterised by"	"linearly varying bottom elevation"	,(+,CT),NONE
+,"domain"	"be characterised by"	"water depths lower than present at rip channel"	,(+,CT),NONE
+,"linearly varying bottom elevation"	"is section B-B in"	"Fig. QUANT_O_1"	,(+,CT),NONE
+,"water depths lower than present at rip channel"	"is section B-B in"	"Fig. QUANT_O_1"	,(+,CT),NONE
+,"rip channel"	"is section A-A in"	"Fig. QUANT_O_1"	,(+,CT),NONE
+,"waves propagating on part of domain characterised by linearly varying bottom elevation"	"start to break"	"earlier than waves propagating on rip channel"	,(+,CT),NONE
+,"waves propagating on part of domain characterised by water depths lower than present at rip channel"	"start to break"	"earlier than waves propagating on rip channel"	,(+,CT),NONE
+,"waves"	"be propagating on"	"rip channel"	,(+,CT),NONE
+
+128,"	In the C0 evaluation, S1 progenies flowered three weeks later than the FS."
+,"S1 progenies"	"flowered three weeks later than FS In"	"C0 evaluation"	,(+,CT),NONE
+,"S1 progenies"	"flowered three weeks later than"	"FS"	,(+,CT),NONE
+
+129,	The development of a marker-assisted population improvement scheme for enhancing quantitative Striga resistance in pearl millet could help render selection even more effective.
+,"development of marker-assisted population improvement scheme for enhancing quantitative Striga resistance in pearl millet"	"help"	"even more effective"	,(+,PS),NONE
+
+130,"	According to Mutti et al. (1997, 1999) three depositional sequences, including shallow water to deeper water sediments, were differentiated in the northwestern Maiella."
+,"shallow water"	"is"	"depositional sequences"	,(+,CT),NONE
+
+131,	The first occurrence of Praeorbulina in Decontra section is in the uppermost part of the Cerratina cherty Limestone.
+,"first occurrence of Praeorbulina in Decontra section"	"is in uppermost part of"	"Cerratina cherty Limestone"	,(+,CT),NONE
+
+132,"	Tauxe et al. (2006) provide strong reasons for the flocculation of magnetic grains in saline water columns, which they argue leads to an insignificant lock-in depth (i.e. only a strict DRM is acquired)."
+,"Tauxe et al."	"provide"	"strong reasons for flocculation of magnetic grains in saline water columns"	,(+,CT),NONE
+,"they"	"argue flocculation of magnetic grains in saline water columns"	"leads to insignificant lock-in depth"	,(+,CT),NONE
+,"only strict DRM"	"is acquired"	,(+,CT),NONE
+
+133,"	The FORC results and complementary mineral magnetic data (e.g. χARM/SIRM ratios of approximately 160×10-5A/m and MDFARM between 40 and 45mT) indicate that non-interacting single-domain magnetosomal magnetite is the dominant carrier of natural and laboratory induced magnetizations in the laminated sections of the Gyltigesjön sediments (see Egli et al., 2010)."
+,"non-interacting single-domain magnetosomal magnetite"	"is dominant carrier of"	"natural"	,(+,CT),NONE
+,"non-interacting single-domain magnetosomal magnetite"	"is dominant carrier of"	"laboratory"	,(+,CT),NONE
+,"non-interacting single-domain magnetosomal magnetite"	"is"	"dominant carrier"	,(+,CT),NONE
+
+134,"	In particular, there was a significant reduction of synthesis of COXI, COXII and COXIII subunits."
+,"significant reduction of synthesis of COXI"	"there was In"	"particular"	,(+,CT),NONE
+,"significant reduction of synthesis of COXII"	"there was In"	"particular"	,(+,CT),NONE
+,"significant reduction of synthesis of COXIII subunits"	"there was In"	"particular"	,(+,CT),NONE
+,"significant reduction of synthesis of COXI"	"there was"	,(+,CT),NONE
+,"significant reduction of synthesis of COXII"	"there was"	,(+,CT),NONE
+,"significant reduction of synthesis of COXIII subunits"	"there was"	,(+,CT),NONE
+
+135,	Fractions (100μl) were collected and 10μl aliquots were analyzed directly by western blotting [47].
+,"Fractions"	"is"	"100μl"	,(+,CT),NONE
+,"Fractions"	"were collected"	,(+,CT),NONE
+,"10μl aliquots"	"were analyzed by"	"western blotting"	,(+,CT),NONE
+,"10μl aliquots"	"were analyzed"	"directly"	,(+,CT),NONE
+,"western blotting"	"is"	"-LSB- QUANT_O_1 -RSB-"	,(+,CT),NONE
+
+136,	Clinical phenotypes caused by mutations in the specific mt-aminoacyl-tRNA synthetases are associated with diversity in both tissue-specificity and clinical presentation [6].
+,"Clinical phenotypes"	"be caused by mutations in"	"specific mt-aminoacyl-tRNA synthetases"	,(+,CT),NONE
+,"Clinical phenotypes caused by mutations in specific mt-aminoacyl-tRNA synthetases"	"are associated with diversity in"	"tissue-specificity"	,(+,CT),NONE
+,"Clinical phenotypes caused by mutations in specific mt-aminoacyl-tRNA synthetases"	"are associated with diversity in"	"clinical presentation"	,(+,CT),NONE
+
+137,	All sequence variants were cross-referenced against dbSNP (build 135) then investigated using in silico methodologies.
+,"QUANT_S_1 sequence variants"	"were cross-referenced against"	"dbSNP"	,(+,CT),NONE
+
+138,"	These substrates were ultrasonically cleaned in acetone and isopropanol for 15min, successively."
+,"substrates"	"were cleaned in"	"acetone"	,(+,CT),NONE
+,"substrates"	"were cleaned in"	"isopropanol"	,(+,CT),NONE
+,"substrates"	"were cleaned in acetone for"	"15min"	,(+,CT),NONE
+,"substrates"	"were cleaned in isopropanol for"	"15min"	,(+,CT),NONE
+
+139,	Supplementary data associated with this article can be found in the online version at 10.1016/j.solmat.2013.04.020.
+,"Supplementary data"	"be associated with"	"article"	,(+,CT),NONE
+,"Supplementary data associated with article"	"be found in online version at"	"QUANT_O_1 /"	,(+,PS),NONE
+
+140,"	Moreover, the donor-acceptor ratio with the highest photocurrent generation (60% PTh) corresponds well with the percolation model of solution-blended films, in which weight ratios close to optimal 1:1 (volume equivalent ~3:2, or 60%) have the highest interface-to-volume ratio as well as the most-balanced percolation and charge carrier transport in the phases [51]."
+,"highest photocurrent generation"	"is"	"QUANT_O_1 PTh"	,(+,CT),NONE
+,"donor-acceptor ratio with highest photocurrent generation"	"corresponds"	"well"	,(+,CT),NONE
+,"donor-acceptor ratio with highest photocurrent generation"	"corresponds with percolation model of"	"solution-blended films"	,(+,CT),NONE
+,"weight ratios close to optimal QUANT_S_1"	"have highest interface-to-volume ratio percolation model of"	"solution-blended films"	,(+,CT),NONE
+,"weight ratios close to optimal QUANT_S_1"	"have most-balanced percolation in phases percolation model of"	"solution-blended films"	,(+,CT),NONE
+,"weight ratios close to optimal QUANT_S_1"	"have most-balanced percolation charge carrier transport in phases percolation model of"	"solution-blended films"	,(+,CT),NONE
+,"most-balanced percolation in phases"	"is"	"-LSB- QUANT_O_1 -RSB-"	,(+,CT),NONE
+,"charge carrier transport"	"is"	"-LSB- QUANT_O_1 -RSB-"	,(+,CT),NONE
+
+141,"	PTh and C60 were deposited by vacuum thermal evaporation from separate tungsten boats (Leybold Optics) which were heated by a Xantrex XHR 7.5-80 DC Power Supply and TDK-Lambda Genesys 8-300 DC Power Supply, respectively."
+,"PTh"	"were deposited by vacuum thermal evaporation from"	"separate tungsten boats"	,(+,CT),NONE
+,"C60"	"were deposited by vacuum thermal evaporation from"	"separate tungsten boats"	,(+,CT),NONE
+,"separate tungsten boats"	"is"	"Leybold Optics"	,(+,CT),NONE
+,"separate tungsten boats"	"were heated by"	"Xantrex XHR QUANT_O_1 DC Power Supply"	,(+,CT),NONE
+,"separate tungsten boats"	"were heated by"	"TDK-Lambda Genesys QUANT_O_1 DC Power Supply"	,(+,CT),NONE
+
+142,"	In the following, data concerning device performance is normalised to the second year of their operation on the current PV monitoring system."
+,"data"	"be concerning"	"device performance"	,(+,CT),NONE
+,"data concerning device performance"	"is normalised"	"following"	,(+,CT),NONE
+,"data concerning device performance"	"is normalised to the second year of"	"operation"	,(+,CT),NONE
+,"data concerning device performance"	"is normalised on"	"current PV monitoring system"	,(+,CT),NONE
+,"data concerning device performance"	"is"	"normalised"	,(+,CT),NONE
+,"their"	"has"	"operation"	,(+,CT),NONE
+
+143,"	It should be noted, however, that CIGS-1 is not representative for CIGS technologies in general as CIGS-2 behaves more stably, even if the overall performance ratio appears to be rather low."
+,"CIGS-1"	"is representative for CIGS technologies in"	"general"	,(-,CT),NONE
+,"CIGS-1"	"is"	"representative"	,(-,CT),NONE
+,"CIGS-2"	"behaves"	"more stably"	,(+,CT),NONE
+,"overall performance ratio"	"appears to be"	"rather low"	,(+,CT),NONE
+,"overall performance ratio"	"appears to be"	"low"	,(+,CT),NONE
+
+144,"	In fact, the same defect parameters can be used to fit the experimental data in both cases."
+,"same defect parameters"	"be used to fit experimental data in cases In"	"fact"	,(+,PS),NONE
+,"same defect parameters"	"be used to fit experimental data In"	"fact"	,(+,PS),NONE
+,"same defect parameters"	"be used to fit experimental data in"	"cases"	,(+,PS),NONE
+,"same defect parameters"	"be used to fit"	"experimental data"	,(+,PS),NONE
+
+145,	An equation analogous to Eq.
+
+146,"	To characterise the optical absorption properties of the prepared CdS/MS materials, DRUVs spectroscopy was employed (Fig. 5)."
+,"DRUVs spectroscopy"	"was employed To characterise optical absorption properties of"	"prepared CdS/MS materials"	,(+,CT),NONE
+,"DRUVs spectroscopy"	"was employed"	,(+,CT),NONE
+
+147,	Preparation of porous starch (MS)-supported CdS
+,"porous starch"	"is"	"MS"	,(+,CT),NONE
+
+148,"	Rough Set Theory (RST) is a powerful mathematical tool for dealing with inexact, uncertain or vague information [10]."
+,"Theory"	"is"	"RST"	,(+,CT),NONE
+,"Rough"	"is powerful mathematical tool for dealing with"	"inexact information"	,(+,CT),NONE
+,"Rough"	"is powerful mathematical tool for dealing with"	"uncertain information"	,(+,CT),NONE
+,"Rough"	"is powerful mathematical tool for dealing with"	"vague information"	,(+,CT),NONE
+,"Rough"	"is"	"powerful mathematical tool"	,(+,CT),NONE
+,"inexact information"	"is"	"-LSB- QUANT_O_1 -RSB-"	,(+,CT),NONE
+,"uncertain information"	"is"	"-LSB- QUANT_O_1 -RSB-"	,(+,CT),NONE
+,"vague information"	"is"	"-LSB- QUANT_O_1 -RSB-"	,(+,CT),NONE
+
+149,"	In our experiment, we represent all the missing values by the set of all possible values of each attribute."
+,"our"	"has"	"experiment"	,(+,CT),NONE
+,"we"	"represent QUANT_R_1 missing values In"	"experiment"	,(+,CT),NONE
+,"we"	"represent QUANT_R_1 missing values by"	"set of QUANT_O_1 possible values of QUANT_O_2 attribute"	,(+,CT),NONE
+,"we"	"represent"	"QUANT_O_1 missing values"	,(+,CT),NONE
+
+150,	The receiver operating characteristic curve (ROC) is a two-dimensional graphical illustration of the trade-off between the true positive rate (sensitivity) and false positive rate (1-specificity).
+,"receiver operating characteristic curve"	"is"	"ROC"	,(+,CT),NONE
+,"receiver operating characteristic curve"	"is two-dimensional graphical illustration of trade-off between"	"true positive rate and false positive rate"	,(+,CT),NONE
+,"receiver operating characteristic curve"	"is"	"two-dimensional graphical illustration"	,(+,CT),NONE
+,"true positive rate and false positive rate"	"is"	"sensitivity"	,(+,CT),NONE
+,"false positive rate"	"is"	"1-specificity"	,(+,CT),NONE
+
+151,"	Typical examples of low default portfolios include high-quality corporate borrowers, banks, sovereigns and some categories of specialised lending (Van Der Burgt, 2007) but in some countries even certain retail lending portfolios could turn out to have very low numbers of defaults compared to the majority class."
+,"Typical examples of low default portfolios"	"include"	"high-quality corporate borrowers"	,(+,CT),NONE
+,"Typical examples of low default portfolios"	"include"	"banks"	,(+,CT),NONE
+,"Typical examples of low default portfolios"	"include"	"sovereigns"	,(+,CT),NONE
+,"Typical examples of low default portfolios"	"include QUANT_O_1 categories of"	"specialised lending"	,(+,CT),NONE
+,"specialised lending"	"is"	"Van Der Burgt"	,(+,CT),NONE
+,"Van Der Burgt"	"is"	"specialised lending"	,(+,CT),NONE
+,"even certain retail lending portfolios"	"turn out to have very low numbers of defaults compared to majority class in"	"QUANT_O_1 countries"	,(+,PS),NONE
+,"even certain retail lending portfolios"	"turn out to have"	"very low numbers of defaults compared to majority class"	,(+,PS),NONE
+
+152,	Note that Eq.
+
+153,"	At low oscillation frequencies, strategies A and C work well."
+,"C"	"work"	"strategies"	,(+,CT),NONE
+
+154,	The different losses in the electrical system with different topologies can be seen by comparing the turbine power and the delivered power in Fig. 7.
+,"different losses in electrical system with different topologies"	"be seen by"	"comparing turbine power"	,(+,PS),NONE
+,"different losses in electrical system with different topologies"	"be seen by delivered power in"	"Fig. QUANT_O_1"	,(+,PS),NONE
+
+155,	The mutual topology is unable to extract power from turbine 4 since the higher rotational velocity causes both a reduced CP (57% of the separate topology at 1800 s) and an increased core loss.
+,"mutual topology"	"is"	"unable to extract power from turbine QUANT_O_1"	,(+,CT),NONE
+,"mutual topology"	"is"	"unable to extract power"	,(+,CT),NONE
+,"higher rotational velocity"	"causes"	"reduced CP"	,(+,CT),NONE
+,"higher rotational velocity"	"causes"	"increased core loss"	,(+,CT),NONE
+
+156,"	Secondly, the functional gradient is obtained by:(10)ⅆJⅆm︸|J|×|m|=-λ∗︸|J|×|z|∂F∂m︸|z|×|m|+∂J∂m︸|J|×|m|."
+
+157,"	The simulations were performed with the same parameter settings as in the previous section (Table 1), but with an increased viscosity coefficient of ν = 30 m2 s-1 and a decreased turbine friction coefficient of K = 10.5."
+,"simulations"	"were performed with"	"same parameter settings as in previous section"	,(+,CT),NONE
+
+158,"	For the current blade, data is obtained from Ref."
+,"data"	"is obtained from Ref For"	"current blade"	,(+,CT),NONE
+,"data"	"is obtained from"	"Ref"	,(+,CT),NONE
+
+159,"	The maximum power coefficient in a tidal flow is therefore expected to be lower than the predictions in the present study, since a constant incoming flow velocity is considered here."
+,"maximum power coefficient in tidal flow"	"is expected to be"	"lower than predictions in present study"	,(+,CT),NONE
+,"maximum power coefficient in tidal flow"	"is expected to be"	"lower"	,(+,CT),NONE
+,"maximum power coefficient in tidal flow"	"be"	"lower than predictions in present study"	,(+,PS),NONE
+,"maximum power coefficient in tidal flow"	"be"	"lower"	,(+,PS),NONE
+,"constant incoming flow velocity"	"is considered"	"here"	,(+,CT),NONE
+
+160,	Early turbine death is a third contributing reason.
+,"Early turbine death"	"is"	"third contributing reason"	,(+,CT),NONE
+
+161,"	While we believe we are the first researchers to assess wind farm performance with this kind of ex-post data, a number of papers present techniques to estimate output levels from time series of wind data."
+,"we"	"are first researchers to assess"	"wind farm performance with kind of ex-post data"	,(+,CT),(we, (+,PS))
+,"we"	"are"	"first researchers"	,(+,CT),(we, (+,PS))
+,"first researchers"	"be assess wind farm performance with kind of"	"ex-post data"	,(+,CT),(we, (+,PS))
+,"number of papers present techniques"	"be estimate output levels from time series of"	"wind data"	,(+,CT),(we, (+,PS))
+
+162,"	This forms a downstream loop of single-stranded parental H-strand which is degraded, with subsequent ligation of the free H-strands and continued replication."
+,"This"	"forms downstream loop of"	"single-stranded parental H-strand"	,(+,CT),NONE
+,"downstream loop of single-stranded parental H-strand"	"is degraded with subsequent ligation of"	"free H-strands"	,(+,CT),NONE
+,"downstream loop of single-stranded parental H-strand"	"continued"	"replication"	,(+,CT),NONE
+
+163,"	Single mtDNA deletions are considered sporadic events with low inheritance risk, whereas multiple mtDNA deletions are the result of primary nuclear defects in genes responsible for mtDNA maintenance or nucleoside metabolism and follow Mendelian inheritance patterns [23]."
+,"Single mtDNA deletions"	"are considered sporadic events with"	"low inheritance risk"	,(+,CT),NONE
+,"multiple mtDNA deletions"	"are result of"	"primary nuclear defects in genes responsible for mtDNA maintenance"	,(+,CT),NONE
+,"multiple mtDNA deletions"	"are result of"	"primary nuclear defects in genes responsible for nucleoside metabolism"	,(+,CT),NONE
+,"multiple mtDNA deletions"	"are"	"result"	,(+,CT),NONE
+,"multiple mtDNA deletions"	"follow"	"Mendelian inheritance patterns"	,(+,CT),NONE
+
+164,"	Changes in aragonite, CT and pH during incubation were not quantified."
+,"Changes in aragonite during incubation"	"were quantified"	,(-,CT),NONE
+,"Changes in CT during incubation"	"were quantified"	,(-,CT),NONE
+,"Changes in pH during incubation"	"were quantified"	,(-,CT),NONE
+
+165,	Site and experimental carbonate chemistry
+
+166,"	We define the optimal delay function of Link l, Dlopt(c), to specify the minimum delay value provided by link l at the cost constraint of c."
+,"We"	"define optimal delay function of Link l to specify"	"minimum delay value provided by link l at cost constraint of c."	,(+,CT),NONE
+,"We"	"define optimal delay function of"	"Link l"	,(+,CT),NONE
+,"We"	"be specify"	"minimum delay value provided by link l at cost constraint of c."	,(+,CT),NONE
+,"Link l"	"is"	"Dlopt"	,(+,CT),NONE
+,"Dlopt"	"is"	"Link l"	,(+,CT),NONE
+,"Dlopt"	"is"	"c"	,(+,CT),NONE
+,"minimum delay value at cost constraint of c."	"be provided by"	"link l"	,(+,CT),NONE
+
+167,	The set of the representative points is called the non-dominated front (or Pareto front).
+,"set of representative points"	"is called"	"non-dominated front"	,(+,CT),NONE
+,"non-dominated front"	"is"	"front"	,(+,CT),NONE
+,"non-dominated front"	"is"	"Pareto"	,(+,CT),NONE
+
+168,	Meanwhile we found disparities of calculated input need and reported fertilizer statistics both on local (country) scale and EU level.
+,"we"	"found disparities of"	"calculated input need"	,(+,CT),NONE
+,"we"	"reported fertilizer statistics on"	"local scale"	,(+,CT),NONE
+,"we"	"reported fertilizer statistics on"	"EU level"	,(+,CT),NONE
+
+169,"	Some use strong extractants which dissolved strongly bound P and hence does not necessarily represent the actual labile pool of P in soils and others use week extractants like water or week acids which might underestimate available soil P (Neyroud and Lischer, 2003)."
+,"water"	"is"	"week extractant"	,(+,CT),NONE
+,"week acids"	"is"	"week extractant"	,(+,CT),NONE
+,"QUANT_S_1"	"use"	"strong extractants"	,(+,CT),NONE
+,"strong extractants"	"dissolved"	"strongly bound P"	,(+,CT),NONE
+,"strong extractants"	"does represent"	"actual labile pool of P in soils"	,(-,CT),NONE
+,"others"	"use week extractants like"	"water"	,(+,CT),NONE
+,"others"	"use week extractants like"	"week acids"	,(+,CT),NONE
+,"others"	"use"	"week extractants"	,(+,CT),NONE
+,"water"	"underestimate"	"available soil P"	,(+,PS),NONE
+,"week acids"	"underestimate"	"available soil P"	,(+,PS),NONE
+,"available soil P"	"is"	"Neyroud"	,(+,CT),NONE
+,"available soil P"	"is"	"Lischer"	,(+,CT),NONE
+
+170,"	Substantial crystallite growth up to 764±4nm (Ta=468K, Fig. 3c) takes place in the subsequent distinct annealing stage B."
+,"Substantial crystallite growth up to QUANT_S_1 4nm"	"takes place in"	"subsequent distinct annealing stage"	,(+,CT),NONE
+
+171,"	The measurements were performed with a Perkin Elmer DSC7 differential calorimeter, which determines the heat release for the annealing processes at different linear heating rates."
+,"measurements"	"were performed with"	"Perkin Elmer DSC7 differential calorimeter"	,(+,CT),NONE
+,"heat release for annealing"	"processes at"	"different linear heating rates"	,(+,CT),NONE
+
+172,	The size-inhabitation of the larger particles ensures that the Area Disorder cannot exceed that expected for a set of point-like particles (f=0).
+
+173,"	In HRB a collection of N particles are divided into two populations, numbering p1N and p2N, with p1 and p2 being positive unit-less values satisfying p1+p2=1."
+,"collection of N particles"	"are divided into QUANT_R_1 populations with p1 being positive unit-less values satisfying p1 = QUANT_R_2 In"	"HRB"	,(+,CT),NONE
+,"collection of N particles"	"are divided into QUANT_R_1 populations with p2 being positive unit-less values satisfying p1 + p2 = QUANT_R_2 In"	"HRB"	,(+,CT),NONE
+,"collection of N particles"	"are divided into QUANT_R_1 populations with p1 being positive unit-less values satisfying p2 = QUANT_R_2 In"	"HRB"	,(+,CT),NONE
+,"QUANT_S_1 populations with p1 being positive unit-less values satisfying p1 = QUANT_S_2"	"is"	"numbering p1N"	,(+,CT),NONE
+,"QUANT_S_1 populations with p1 being positive unit-less values satisfying p1 = QUANT_S_2"	"is"	"p2N"	,(+,CT),NONE
+,"QUANT_S_1 populations with p2 being positive unit-less values satisfying p1 + p2 = QUANT_S_2"	"is"	"numbering p1N"	,(+,CT),NONE
+,"QUANT_S_1 populations with p2 being positive unit-less values satisfying p1 + p2 = QUANT_S_2"	"is"	"p2N"	,(+,CT),NONE
+,"QUANT_S_1 populations with p1 being positive unit-less values satisfying p2 = QUANT_S_2"	"is"	"numbering p1N"	,(+,CT),NONE
+,"QUANT_S_1 populations with p1 being positive unit-less values satisfying p2 = QUANT_S_2"	"is"	"p2N"	,(+,CT),NONE
+,"p1"	"being positive unit-less values"	"satisfying p2 = QUANT_O_1"	,(+,CT),NONE
+,"p2"	"being positive unit-less values"	"satisfying p2 = QUANT_O_1"	,(+,CT),NONE
+,"p1"	"being"	"positive unit-less values"	,(+,CT),NONE
+,"p2"	"being"	"positive unit-less values"	,(+,CT),NONE
+,"positive unit-less values"	"be satisfying"	"p1 = QUANT_O_1"	,(+,CT),NONE
+,"positive unit-less values"	"be satisfying"	"p2 = QUANT_O_1"	,(+,CT),NONE
+
+174,"	Samples were collected from outcrops, soils, fluvial, lake, and marine sediment environments."
+,"Samples"	"were collected from"	"outcrops"	,(+,CT),NONE
+,"Samples"	"were collected from"	"soils"	,(+,CT),NONE
+,"Samples"	"were collected from"	"fluvial"	,(+,CT),NONE
+,"Samples"	"were collected from"	"lake"	,(+,CT),NONE
+,"Samples"	"were collected from"	"marine sediment environments"	,(+,CT),NONE
+
+175,	For a detailed description of analysis methods and precision see Lee et al. (1997).
+
+176,	FTIR spectra of the compounds were recorded as KBr-pellets within the range 4000-400cm-1 using a Perkin-Elmer 16PC FTIR spectrometer.
+,"FTIR spectra of compounds"	"were recorded as KBr-pellets within"	"range 4000-400cm-1 using Perkin-Elmer 16PC FTIR spectrometer"	,(+,CT),NONE
+,"KBr-pellets within range 4000-400cm-1"	"be using"	"Perkin-Elmer 16PC FTIR spectrometer"	,(+,CT),NONE
+
+177,"	Synthesis, spectroscopic, coordination and biological activities of some organometallic complexes derived from thio-Schiff base ligands"
+,"QUANT_S_1 organometallic complexes"	"be derived from"	"thio-Schiff base ligands"	,(+,CT),NONE
+
+178,	The chirality delivery through non-covalent interactions has been studied based on the viewpoint of supramolecular chemistry [9].
+,"chirality delivery through non-covalent interactions"	"has been studied"	,(+,CT),NONE
+,"viewpoint of supramolecular chemistry"	"is"	"-LSB- QUANT_O_1 -RSB-"	,(+,CT),NONE
+
+179,	This negative CE demonstrates that the chiral of GMP delivers to GMP-Co(II) compounds and GMP mainly keeps the β-anomers in the complex.
+,"chiral of GMP"	"delivers to"	"GMP-Co compounds"	,(+,CT),NONE
+,"chiral of GMP"	"delivers to"	"GMP"	,(+,CT),NONE
+,"GMP-Co"	"is"	"QUANT_O_1"	,(+,CT),NONE
+
+180,"	Although some voltage plateaus are still observed for NaFe0.5Co0.5O2, our in-situ XRD study revealed that a two phase region for NaFe0.5Co0.5O2 existed only at the beginning of charge process as O3-P3 phase transition [15]."
+,"QUANT_S_1 voltage plateaus"	"are observed for"	"NaFe0"	,(+,CT),NONE
+,"our"	"has"	"in-situ XRD study"	,(+,CT),NONE
+,"QUANT_S_1 phase region for NaFe0"	"existed at beginning of charge process as"	"O3-P3 phase transition"	,(+,CT),NONE
+,"QUANT_S_1 phase region for NaFe0"	"existed at beginning of"	"charge process"	,(+,CT),NONE
+,"O3-P3 phase transition"	"is"	"-LSB- QUANT_O_1 -RSB-"	,(+,CT),NONE
+
+181,"	The electrode reversibility is, however, significantly deteriorated by extending higher voltage above 3.5V."
+,"electrode reversibility"	"is deteriorated by extending higher voltage above"	"QUANT_O_1 V."	,(+,CT),NONE
+
+182,	The first category represents the LDDoS attacks whose aggregate attack period is equally distributed among n flows.
+,"first category"	"represents"	"LDDoS attacks"	,(+,CT),NONE
+,"LDDoS attacks"	"has"	"aggregate attack period"	,(+,CT),NONE
+,"LDDoS attacks aggregate attack period"	"is distributed among"	"n flows"	,(+,CT),NONE
+
+183,	Our contributions are summarized as follows:•
+,"Our"	"has"	"contributions"	,(+,CT),NONE
+,"contributions"	"are summarized as"	"follows"	,(+,CT),NONE
+
+184,"	In keeping with these observations, Mnx1 null mice have aberrant motor neuron differentiation but are difficult to study as they die at birth due to respiratory paralysis, which probably results from failure in the development of the phrenic nerve (Thaler et al., 1999)."
+,"Mnx1 null mice"	"have aberrant motor neuron differentiation In keeping with"	"observations"	,(+,CT),NONE
+,"Mnx1 null mice"	"have"	"aberrant motor neuron differentiation"	,(+,CT),NONE
+,"they"	"die at"	"birth due to respiratory paralysis"	,(+,CT),NONE
+,"they"	"die"	,(+,CT),NONE
+,"respiratory paralysis"	"results from"	"failure in development of phrenic nerve"	,(+,PS),NONE
+
+185,	A.T.H. and S.E. are both employed as core members of the Exeter NIHR Clinical Research Facility.
+,"A.T.H."	"are employed as core members of"	"Exeter NIHR Clinical Research Facility"	,(+,CT),NONE
+,"S.E."	"are employed as core members of"	"Exeter NIHR Clinical Research Facility"	,(+,CT),NONE
+
+186,	The rage of these devices was about 10m and encounters were uploaded to a base station regularly (but the base station did not have any role in forwarding).
+,"rage of devices"	"was about 10m were uploaded to"	"base station regularly"	,(+,CT),NONE
+,"rage of devices"	"was about encounters were uploaded to"	"base station regularly"	,(+,CT),NONE
+,"base station"	"did have QUANT_O_1 role in"	"forwarding"	,(-,CT),NONE
+
+187,"	All protocols manage highest availability over the Infocom 2006 trace [33] because this trace is highly social (allows repeating patterns of connectivity) that allows for accurate social/connectivity predictions that CafRep, EBR [26], RR [38] and SnF [37] use."
+,"QUANT_S_1 protocols"	"manage highest availability over"	"Infocom 2006 trace"	,(+,CT),NONE
+,"QUANT_S_1 protocols"	"manage"	"highest availability"	,(+,CT),NONE
+,"Infocom 2006 trace"	"is"	"-LSB- QUANT_O_1 -RSB-"	,(+,CT),NONE
+,"trace"	"is"	"social"	,(+,CT),NONE
+,"that"	"allows for"	"accurate social/connectivity predictions"	,(+,CT),NONE
+,"EBR"	"is"	"-LSB- QUANT_O_1 -RSB-"	,(+,CT),NONE
+,"RR"	"is"	"-LSB- QUANT_O_1 -RSB-"	,(+,CT),NONE
+
+188,"	The slight increase in CO2 saturation with the isothermal temperature of 38°C follows from the small increase in pressure that, in turn, is due to a lower CO2 density."
+,"slight increase in CO2 saturation with isothermal temperature of QUANT_S_1 °C"	"follows from"	"small increase in pressure that in turn is due to lower CO2 density"	,(+,CT),NONE
+
+189,	The resulting difference between the scenarios in Vp is less than 5m/s.
+,"resulting difference between scenarios in Vp"	"is less than"	"5m/s"	,(+,CT),NONE
+,"resulting difference between scenarios in Vp"	"is"	"less"	,(+,CT),NONE
+
+190,"	The maximum ice load does not need to be located directly above the Utsira Formation as, for a hydraulically connected aquifer, a lateral transmission of pressure will occur for tens of kilometers."
+,"maximum ice load"	"does need to be located directly above"	"Utsira Formation"	,(-,CT),NONE
+,"maximum ice load"	"does need to be"	"located"	,(-,CT),NONE
+,"hydraulically connected aquifer"	"is lateral transmission of"	"pressure"	,(+,CT),NONE
+
+191,"	However, the crucial distinction between our model and other approaches is our assumption concerning the dominant physics of the flow process."
+,"model"	"is"	"approach"	,(+,CT),NONE
+,"our"	"has"	"model and"	,(+,CT),NONE
+,"crucial distinction between model and other approaches"	"is"	"assumption"	,(+,CT),NONE
+,"crucial distinction between model and other approaches"	"is assumption concerning dominant physics of"	"flow process"	,(+,CT),NONE
+,"our"	"has assumption concerning dominant physics of"	"flow process"	,(+,CT),NONE
+
+192,"	Interestingly, although comparable amount of HPCs and CFU was derived from hiPSCs expanded in bioreactor as in adhesion, HPCs derived from TNC1 in bioreactor generated a considerably higher proportion of cells in erythroid lineage rather than in myelocyte lineage."
+,"comparable amount of HPCs"	"was derived from"	"hiPSCs expanded in bioreactor as in adhesion"	,(+,CT),NONE
+,"CFU"	"was derived from"	"hiPSCs expanded in bioreactor as in adhesion"	,(+,CT),NONE
+,"hiPSCs"	"be expanded in bioreactor as in"	"adhesion"	,(+,CT),NONE
+,"hiPSCs"	"be expanded in"	"bioreactor"	,(+,CT),NONE
+,"HPCs"	"be derived from TNC1 in"	"bioreactor"	,(+,CT),NONE
+,"HPCs"	"be derived from"	"TNC1"	,(+,CT),NONE
+,"HPCs derived from TNC1 in bioreactor"	"generated"	"considerably higher proportion of cells in erythroid lineage"	,(+,CT),NONE
+,"HPCs derived from TNC1 in bioreactor"	"generated higher proportion of cells in erythroid lineage although"	"CFU was derived from hiPSCs expanded in bioreactor as in adhesion"	,(+,CT),NONE
+
+193,	Cryopreservation and recovery of hiPSCs in suspension culture
+
+194,	Peptides (22-34 peptides; GSPAINVAMHVFR) derived from ATTR had a molecular mass of 700m/z.
+,"Peptides"	"be derived from"	"ATTR"	,(+,CT),NONE
+,"Peptides derived from ATTR"	"had molecular mass of"	"700m/z"	,(+,CT),NONE
+
+195,	Production of wild-type TTR and ATTR Val30Met by differentiated hepatocyte-like cells
+
+196,"	The first step, induction of multilineage differentiation and embryoid body (EB) formation, was inefficient when iPSCs were maintained on feeder cells."
+,"first step"	"is induction of"	"multilineage differentiation"	,(+,CT),NONE
+,"first step"	"is induction of"	"embryoid body formation"	,(+,CT),NONE
+,"embryoid body"	"is"	"EB"	,(+,CT),NONE
+,"first step"	"was"	"inefficient"	,(+,CT),NONE
+,"iPSCs"	"were maintained on"	"feeder cells"	,(+,CT),NONE
+
+197,"	The total expression of each reprogramming factor was not different from that of the endogenous gene (Figures 1A-1C), indicating complete transgene silencing."
+,"total expression of QUANT_S_1 reprogramming factor"	"was different from that of"	"endogenous gene"	,(-,CT),NONE
+,"total expression of QUANT_S_1 reprogramming factor"	"was different"	"indicating complete transgene silencing"	,(-,CT),NONE
+,"total expression of QUANT_S_1 reprogramming factor"	"was"	"different"	,(-,CT),NONE
+,"not different from that of endogenous gene"	"be indicating"	"complete transgene silencing"	,(+,CT),NONE
+,"endogenous gene"	"is"	"Figures 1A-1C"	,(+,CT),NONE
+
+198,	An Experimental Platform for the Efficient Generation of Human Cranial Placodes In Vitro
+
+199,"	We also observed significant transcriptional changes in WNT and BMP pathway components such as an increase in the WNT pathway inhibitor DKK-1 and BMP antagonists, such as GREMLIN-1 and BAMBI (Figures 2B-2D), which are known transcriptional targets of BMP signaling (Grotewold et al., 2001)."
+,"increase"	"is"	"bmp pathway component"	,(+,CT),NONE
+,"We"	"observed"	"significant transcriptional changes in increase in GREMLIN-1"	,(+,CT),NONE
+,"We"	"observed significant transcriptional changes in"	"BMP pathway components"	,(+,CT),NONE
+,"We"	"observed"	"significant transcriptional changes in increase in GREMLIN-1 and BAMBI"	,(+,CT),NONE
+,"We"	"observed"	"significant transcriptional changes in increase in BAMBI"	,(+,CT),NONE
+,"GREMLIN-1"	"is"	"Figures 2B-2D"	,(+,CT),NONE
+,"BAMBI"	"is"	"Figures 2B-2D"	,(+,CT),NONE
+,"GREMLIN-1"	"are known transcriptional targets of"	"BMP signaling"	,(+,CT),NONE
+,"BAMBI"	"are known transcriptional targets of"	"BMP signaling"	,(+,CT),NONE
+
+200,	Specimens sent to surgical pathology demonstrated granulation tissue with chronic inflammation.
+,"Specimens"	"sent to"	"surgical pathology"	,(+,CT),NONE
+
+201,	We describe a confined local Phialemonium infection in the tympanomastoid cavity without any systemic manifestations.
+,"We"	"describe confined local Phialemonium infection in tympanomastoid cavity without"	"QUANT_O_1 systemic manifestations"	,(+,CT),NONE
+,"We"	"describe confined local Phialemonium infection in"	"tympanomastoid cavity"	,(+,CT),NONE
+
+202,"	In PSP atrophy is severe in the upper brain stem and superior cerebellar peduncle, with moderate atrophy of medial prefrontal cortex, insula/frontal operculum, cingulate cortex, precentral gyrus and superior parietal lobule (Brenneis et al., 2004; Chiu et al., 2012; Ghosh et al., 2012; Nicoletti et al., 2008)."
+,"medial prefrontal cortex"	"is"	"insula/frontal operculum"	,(+,CT),NONE
+
+203,	Analyses were conducted on the waveforms from the primary orientation of the regional sources.
+,"Analyses"	"were conducted on"	"waveforms from primary orientation of regional sources"	,(+,CT),NONE
+
+204,"	After a band-pass (0.1-330Hz) and 60Hz notch filter, MEG signals were digitized at 1000Hz."
+,"band-pass"	"is"	"0.1-330Hz"	,(+,CT),NONE
+,"60Hz notch filter"	"is"	"0.1-330Hz"	,(+,CT),NONE
+,"MEG signals"	"were digitized at 1000Hz After"	"band-pass"	,(+,CT),NONE
+,"MEG signals"	"were digitized at 1000Hz After"	"60Hz notch filter"	,(+,CT),NONE
+,"MEG signals"	"were digitized at"	"1000Hz"	,(+,CT),NONE
+
+205,"	To coregister MEG and sMRI data, three anatomical landmarks (nasion and right and left preauriculars) as well as an additional 150+ points on the scalp and face were digitized for each subject using the Probe Position Identification (PPI) System (Polhemus, Colchester, VT)."
+,"nasion"	"were digitized for QUANT_R_1 subject using Probe Position Identification"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"right"	"were digitized for QUANT_R_1 subject using Probe Position Identification"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"left"	"were digitized for QUANT_R_1 subject using Probe Position Identification"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"additional QUANT_S_1 on scalp"	"were digitized for QUANT_R_1 subject using Probe Position Identification"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"additional QUANT_S_1 points on scalp and face"	"were digitized for QUANT_R_1 subject using Probe Position Identification"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"additional QUANT_S_1 on scalp face"	"were digitized for QUANT_R_1 subject using Probe Position Identification"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"nasion"	"were digitized"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"right"	"were digitized"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"left"	"were digitized"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"additional QUANT_S_1 on scalp"	"were digitized"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"additional QUANT_S_1 points on scalp and face"	"were digitized"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"additional QUANT_S_1 on scalp face"	"were digitized"	"QUANT_O_1 anatomical landmarks"	,(+,CT),NONE
+,"QUANT_S_1 subject"	"be using"	"Probe Position Identification"	,(+,CT),NONE
+,"Polhemus"	"is"	"Colchester"	,(+,CT),NONE
+,"Polhemus"	"is"	"VT"	,(+,CT),NONE
+
+206,"	In this paper, we use voxel for 3-dimensional images and pixel for 2-dimensional images."
+,"we"	"use voxel In"	"paper"	,(+,CT),NONE
+,"we"	"use voxel for 3-dimensional images for"	"2-dimensional images"	,(+,CT),NONE
+,"we"	"use voxel for"	"pixel"	,(+,CT),NONE
+,"we"	"use"	"voxel"	,(+,CT),NONE
+
+207,"	Finally, we concatenated the vectors from the three contrast maps, and obtained a 1474-dimension vector for each subject."
+,"we"	"concatenated"	"vectors"	,(+,CT),NONE
+,"we"	"concatenated vectors from"	"QUANT_O_1 contrast maps"	,(+,CT),NONE
+,"we"	"obtained 1474-dimension vector for"	"QUANT_O_1 subject"	,(+,CT),NONE
+
+208,"	Most strikingly, there was a mutant gene-dose-dependent increase in caspase-cleaved TAU fragments, as determined by the caspase-cleaved TAU-specific antibody C3 (Gamblin et al., 2003; Guillozet-Bongaarts et al., 2005), in neurons derived from the isogenic TAU-A152T-iPSCs (Figures 4J and 4K)."
+,"mutant gene-dose-dependent increase in caspase-cleaved TAU fragments as determined by caspase-cleaved TAU-specific antibody C3 in neurons derived from isogenic TAU-A152T-iPSCs"	"there was"	"Most strikingly"	,(+,CT),NONE
+,"mutant gene-dose-dependent increase in caspase-cleaved TAU fragments as determined by caspase-cleaved TAU-specific antibody C3 in neurons derived from isogenic TAU-A152T-iPSCs"	"there was"	,(+,CT),NONE
+,"caspase-cleaved TAU-specific antibody C3"	"is"	"Gamblin et"	,(+,CT),NONE
+,"Gamblin et"	"is"	"caspase-cleaved TAU-specific antibody C3"	,(+,CT),NONE
+,"neurons"	"be derived from"	"isogenic TAU-A152T-iPSCs"	,(+,CT),NONE
+,"isogenic TAU-A152T-iPSCs"	"is"	"Figures"	,(+,CT),NONE
+
+209,	Genetic Correction of TAU-A152T Eliminates the Detrimental Effects of the Mutation on Different Subtypes of Neurons
+,"Genetic Correction of TAU-A152T"	"Eliminates"	"Detrimental Effects of Mutation on Different Subtypes of Neurons"	,(+,CT),NONE
+
+210,"	Intriguingly, the serum level of IFN-γ temporarily increased at 2 months after the transplant in three animals (Figure 3C)."
+,"serum level of IFN-γ"	"increased at"	"QUANT_O_1 months"	,(+,CT),NONE
+,"serum level of IFN-γ"	"increased at QUANT_R_1 months after transplant in"	"QUANT_O_1 animals"	,(+,CT),NONE
+,"QUANT_S_1 animals"	"is"	"Figure 3C"	,(+,CT),NONE
+
+211,	Autografts Elicit Only a Minimal Immune Response in the Primate Brain
+
+212,"	Here, we have addressed this limitation for the endodermal lineage by developing a defined culture system to expand and differentiate human foregut stem cells (hFSCs) derived from hPSCs. hFSCs can self-renew while maintaining their capacity to differentiate into pancreatic and hepatic cells."
+,"hFSCs"	"self-renew while"	"maintaining capacity to differentiate into pancreatic"	,(+,PS),NONE
+,"hFSCs"	"self-renew while"	"maintaining capacity to differentiate into hepatic"	,(+,PS),NONE
+,"their"	"has"	"capacity to differentiate into pancreatic"	,(+,CT),NONE
+,"their"	"has"	"capacity to differentiate into hepatic"	,(+,CT),NONE
+,"capacity"	"be differentiate into"	"pancreatic"	,(+,CT),NONE
+,"capacity"	"be differentiate into"	"hepatic"	,(+,CT),NONE
+
+213,"	However, hFSCs could also have the unique capacity to generate lung/thyroid cells while they have lost their capacity to generate gut cells."
+,"hFSCs"	"have"	"unique capacity to generate lung/thyroid cells"	,(+,PS),NONE
+,"unique capacity"	"be generate"	"lung/thyroid cells"	,(+,CT),NONE
+,"they"	"be generate"	"gut cells"	,(+,CT),NONE
+,"they"	"have lost capacity to generate"	"gut cells"	,(+,CT),NONE
+,"they"	"have lost"	"capacity"	,(+,CT),NONE
+,"their"	"has"	"capacity"	,(+,CT),NONE
+
+214,	Subsequent differentiation to AFE was achieved through addition of bone morphogenetic protein (BMP) antagonists noggin and SB431542 (stage 2).
+,"Subsequent differentiation to AFE"	"was achieved through addition of"	"bone morphogenetic protein antagonists noggin"	,(+,CT),NONE
+,"Subsequent differentiation to AFE"	"was achieved through addition of"	"SB431542"	,(+,CT),NONE
+,"bone morphogenetic protein"	"is"	"BMP"	,(+,CT),NONE
+,"SB431542"	"is"	"stage QUANT_O_1"	,(+,CT),NONE
+
+215,"	The GFP+ cells grew as compact colonies characteristic of the undifferentiated state, whereas the GFP- cells had a fibroblast-like morphology typical of differentiating hESCs (Figure S2F)."
+,"GFP"	"grew as compact colonies characteristic of"	"undifferentiated state"	,(+,CT),NONE
+,"cells"	"grew as compact colonies characteristic of"	"undifferentiated state"	,(+,CT),NONE
+,"GFP cells"	"had fibroblast-like morphology typical of"	"differentiating hESCs"	,(+,CT),NONE
+,"hESCs"	"is"	"Figure S2F"	,(+,CT),NONE
+
+216,"	This conclusion was also extended to hypermethylation signatures identified by others (Lister et al., 2011; Ruiz et al., 2012)."
+,"conclusion"	"was extended to hypermethylation signatures identified by"	"others"	,(+,CT),NONE
+,"hypermethylation signatures"	"be identified by"	"others"	,(+,CT),NONE
+
+217,"	Briefly, hiPSCs were generated from IMR90, CCD-1097SK, BJ1, and NPC cells derived from 11-week-old fetal brain using retroviral expression of OCT4, SOX2, KLF4, and c-MYC or OCT4, NANOG, KLF4, and LIN-28."
+,"hiPSCs"	"were generated using retroviral expression of"	"OCT4"	,(+,CT),NONE
+,"hiPSCs"	"were generated using retroviral expression of"	"SOX2"	,(+,CT),NONE
+,"hiPSCs"	"were generated using retroviral expression of"	"KLF4"	,(+,CT),NONE
+,"hiPSCs"	"were generated using retroviral expression of"	"c-MYC"	,(+,CT),NONE
+,"hiPSCs"	"were generated using retroviral expression of"	"NANOG"	,(+,CT),NONE
+,"hiPSCs"	"were generated using retroviral expression of"	"LIN-28"	,(+,CT),NONE
+,"hiPSCs"	"were generated from IMR90 using retroviral expression of"	"OCT4"	,(+,CT),NONE
+,"hiPSCs"	"were generated from IMR90 using retroviral expression of"	"SOX2"	,(+,CT),NONE
+,"hiPSCs"	"were generated from IMR90 using retroviral expression of"	"KLF4"	,(+,CT),NONE
+,"hiPSCs"	"were generated from IMR90 using retroviral expression of"	"c-MYC"	,(+,CT),NONE
+,"hiPSCs"	"were generated from IMR90 using retroviral expression of"	"NANOG"	,(+,CT),NONE
+,"hiPSCs"	"were generated from IMR90 using retroviral expression of"	"LIN-28"	,(+,CT),NONE
+,"hiPSCs"	"were generated from CCD-1097SK using retroviral expression of"	"OCT4"	,(+,CT),NONE
+,"hiPSCs"	"were generated from CCD-1097SK using retroviral expression of"	"SOX2"	,(+,CT),NONE
+,"hiPSCs"	"were generated from CCD-1097SK using retroviral expression of"	"KLF4"	,(+,CT),NONE
+,"hiPSCs"	"were generated from CCD-1097SK using retroviral expression of"	"c-MYC"	,(+,CT),NONE
+,"hiPSCs"	"were generated from CCD-1097SK using retroviral expression of"	"NANOG"	,(+,CT),NONE
+,"hiPSCs"	"were generated from CCD-1097SK using retroviral expression of"	"LIN-28"	,(+,CT),NONE
+,"hiPSCs"	"were generated from BJ1 using retroviral expression of"	"OCT4"	,(+,CT),NONE
+,"hiPSCs"	"were generated from BJ1 using retroviral expression of"	"SOX2"	,(+,CT),NONE
+,"hiPSCs"	"were generated from BJ1 using retroviral expression of"	"KLF4"	,(+,CT),NONE
+,"hiPSCs"	"were generated from BJ1 using retroviral expression of"	"c-MYC"	,(+,CT),NONE
+,"hiPSCs"	"were generated from BJ1 using retroviral expression of"	"NANOG"	,(+,CT),NONE
+,"hiPSCs"	"were generated from BJ1 using retroviral expression of"	"LIN-28"	,(+,CT),NONE
+,"hiPSCs"	"were generated from NPC cells derived from 11-week-old fetal brain using retroviral expression of"	"OCT4"	,(+,CT),NONE
+,"hiPSCs"	"were generated from NPC cells derived from 11-week-old fetal brain using retroviral expression of"	"SOX2"	,(+,CT),NONE
+,"hiPSCs"	"were generated from NPC cells derived from 11-week-old fetal brain using retroviral expression of"	"KLF4"	,(+,CT),NONE
+,"hiPSCs"	"were generated from NPC cells derived from 11-week-old fetal brain using retroviral expression of"	"c-MYC"	,(+,CT),NONE
+,"hiPSCs"	"were generated from NPC cells derived from 11-week-old fetal brain using retroviral expression of"	"NANOG"	,(+,CT),NONE
+,"hiPSCs"	"were generated from NPC cells derived from 11-week-old fetal brain using retroviral expression of"	"LIN-28"	,(+,CT),NONE
+,"NPC cells"	"be derived from"	"11-week-old fetal brain"	,(+,CT),NONE
+
+218,"	However, much is still not understood with regard to the physiology of stem-cell-derived RPE (Liao et al., 2010) and transplantation into patients is in the early stages."
+,"QUANT_S_1"	"is understood"	"transplantation into patients is in early stages"	,(-,CT),NONE
+,"QUANT_S_1"	"is understood with regard to physiology of stem-cell-derived RPE"	"transplantation into patients is in early stages"	,(-,CT),NONE
+,"Liao et 2010"	"is in"	"early stages"	,(+,CT),NONE
+,"transplantation into patients"	"is in"	"early stages"	,(+,CT),NONE
+
+219,	Pan-cytokeratin was visualized with the Biotin-ExtrAvidin-AEC chromogen system.
+,"Pan-cytokeratin"	"was visualized with"	"Biotin-ExtrAvidin-AEC chromogen system"	,(+,CT),NONE
+

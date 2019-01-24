@@ -1,0 +1,220 @@
+S0001870812002101:135	Assume that L is a line bundle.
+S0001870812002101:466	Thus the class tp(-) is defined for varieties of dimension i(p-1) when i is arbitrary, satisfies the degree formula when i≤p, and is of p-torsion when i≤p-1.
+S0001870813002715:363	In order to achieve this, we prove that the sufficient condition of Theorem 1.1 is satisfied when X does not coincide with the underlying manifold of G.
+S0001870813002715:179	We now check that our hypothesis is invariantly defined.
+S0001870813003265:540	We work in the assumptions of Theorem 3.3, so that the ideal ID is invariant and the quotient module is defined.
+S0001870813003265:630	But on the other handRˆ-bj=(τ(-bj)Rˆ+)∩Rˆ-={[β,ℏk]|β∈R-,k∈Z,(β,bj)<k≤0}, which implies (α(1),bj)<0.
+S0006322312001096:143	The association between stroke risk and depressive symptoms warrants further research, as it raises the possibility that cerebrovascular rather than cardiovascular risk status may act as an early marker of depression risk.
+S0006322312001096:81	Analysis 1: Manifest Vascular and Nonvascular Disease as a Predictor of Depressive Symptoms
+S0012821X12004384:73	The >250μm fractions, found through light microscope analysis to be dominated (>90%) by amorphous organic matter (AOM), were also analysed for δ13C.
+S0012821X12004384:174	Both taxa are produced in abundance by a variety of coniferous plants, and are typical in the Paleogene of the northern UK and Greenland region (Boulter and Manum, 1989; Jolley and Whitham, 2004; Jolley and Morton, 2007), as well as mid-latitude North America (Smith et al., 2007) and Arctic Canada (Greenwood and Basinger, 1993).
+S0012821X13002185:58	Diatom δ30Si is a proxy for diatom silicic acid utilisation (Fig. 2a) because frustule growth preferentially incorporates 28Si over 30Si with 30ε∼-1.1‰ (De La Rocha et al., 1997).
+S0012821X13002185:47	Today, incomplete nutrient utilisation makes this a region of CO2 venting to the atmosphere (Marinov et al., 2006).
+S0012821X13007309:171	In the Site 1260 record, a trend from ∼0.6 to 1.0 in the lowest samples is followed by a shift in the opposite direction, toward the unradiogenic end-member, but the values are variable and some spikes to >1 (radiogenic) persist.
+S0012821X13007309:151	For the purpose of comparing δ13Corg and Osi records between different localities, however, we believe the chronostratigraphic framework is sufficient to recognize differences in the timing of key events.
+S0016236113008041:281	However, there may be several reasons for the various discrepancies noted, primarily that MTDATA calculates the reactions at equilibrium, and assumes that the reactions go to completion, when in reality, this may not be the case.
+S0016236113008041:92	Ca-derived sorbents sampled before, during and after tests were analysed for changes in morphology using environmental scanning electron microscopy (SEM) and electron dispersive spectroscopy (EDS).
+S0019103511004994:207	The trajectory of flyby E3 projected into the x-z-plane is slightly different compared to E4, E5, and E6.
+S0019103511004994:116	Electrons with energies greater than the resonance energy drift opposite to the direction of the plasma motion (corotation), relative to the moon.
+S0019103512001388:152	A limited number of K′ and Hcont images provide especially useful constraints on the vertical structures of the two features when paired with nearly simultaneous H images.
+S0019103512001388:32	These features reached pressures in the 300-500mb range (Sromovsky et al., 2007), which is well above the 1.2-bar methane condensation level (Sromovsky et al., 2011).
+S0019103512002801:472	A second possibility is that the wake receives accelerated or escaped photoelectrons from Rhea's charged surface.
+S0019103512002801:332	Phase Space Density (PSD) analysis
+S0019103512003533:151	We have run all simulations for solar minimum conditions (May 15, 2008), identical to the fluxes used by Galand et al. (2009, 2011).
+S0019103512003533:390	The effects of the feedback on the magnetosphere did however have little influence on the atmosphere behaviour, which is the focus of our study here.
+S0019103512003995:45	However, the non-detection is based on only a few observations that have proven difficult to analyze, and the search should continue.
+S0019103512003995:145	The detections of the transits in the C II 1335Å and Si III 1206.5Å lines were compared with observations of other lines such as Si IV 1395Å in which the transit was not detected.
+S0019103512004009:653	The dominant Si species is then SiO, which dissociates at a similar pressure level as the other molecules.
+S0019103512004009:507	In the absence of heavy elements, H3+ forms near the base of the model and subsequent infrared cooling balances the EUV heating rates.
+S0019103513005058:427	Low atmospheric temperatures and a small inventory of oxygen and ozone limit the gas phase production rate of perchlorate.
+S0019103513005058:308	These concentrations are both many orders of magnitude lower than the observed abundance at the Phoenix landing site: 0.4-0.6wt.% (Hecht et al., 2009).
+S0021869313002846:1424	 Thus there are, up to associativity, only finitely many such q. □
+S0021869313002846:1156	In [46, §5(d)], Rehm gives examples for bounded maximal orders E, that are prime and satisfy the ACC on divisorial two-sided E-ideals, but do not satisfy the ACC on divisorial left E-ideals or the ACC on divisorial right E-ideals.
+S0021979713004438:200	This extreme intensity enhancement is an effect of the large charge polarization of the [Fe(Cat)3]3- complex due to the strongly positive Fe3+ being surrounded by three negatively charged catechols.
+S0021979713004438:225	CRM measurements were also performed with the oxidized iron surface.
+S0022000014000026:589	Then Eout∈ΦTime(Ein), iff the following holds:-
+S0022000014000026:1026	Every memory flag is just an SR-latch with dominant reset, whose functional equivalents are also depicted in Fig. 11.
+S0022247X13005374:102	As -ν+1t+(ν+1)2t2+1=t2+(ν+1)2-(ν+1)t, the lower bound again is equivalent to Rν>Gν+1,ν+1 for ν>-1.
+S0022247X13005374:107	Let ξ=t2+β2-β so that t≠0 iff ξ>0,t2=(ξ+β)2-β2=ξ(ξ+2β),ν+t2+β2=2(ν+1)+ξ, and the inequality becomes 0<P(ξ)=γξ4+γ(4(ν+1)+2β)ξ3+(1+8(ν+1)βγ+4(ν+1)2γ-1)ξ2+(4(ν+1)+8(ν+1)2βγ-2(ν+1)-2β)ξ+(4(ν+1)2-4(ν+1)2).
+S0022247X13008238:131	Let Q(t,ξ) be the symmetriser of the weakly hyperbolic matrix A(t,ξ) defined above.
+S0022247X13008238:121	These two matrices are both symmetric with polynomial entries in τ1〈ξ〉-1,…,τm〈ξ〉-1 and τ1|ξ|-1,…,τm|ξ|-1, respectively, as defined in [6, Section 3].
+S0022314X13001777:119	Kempner [10] and Keller and Olson [9].) The number of polynomial permutations on Zp2 is|G2|=p!(p-1)ppp, and for n⩾3 the number of polynomial permutations on Zp2 is|Gn|=p!(p-1)pppp∑k=3nβ(k).
+S0022314X13001777:136	We denote by (H,∘) the group of units of E.
+S0022314X13003089:233	Notice that c does not depend on i.
+S0022314X13003089:269	Since Z[X] is obviously a subring of Int(Mnp(Z),Mn(Z)), we have:Int(Mnp(Z),Mn(Z))(M)={f(M)|f∈Int(Mnp(Z),Mn(Z))}=Z[M].
+S0022399913003358:51	Recruitment of adults aged 40 to 69years was carried out through National Health Service registers and aimed to be inclusive and as representative as possible of the UK population.
+S0022399913003358:40	There is evidence that neurotic traits are stronger in tinnitus patients [20], particularly in those with higher levels of tinnitus annoyance, and recent evidence that neuroticism may predict the development of severe tinnitus in patients already experiencing some tinnitus [21].
+S0022459611006116:148	An additional, longer Mg-F interaction completes a distorted, axially extended octahedron (Fig. 5).
+S0022459611006116:11	The nitride halides are essentially ionic and exhibit weak temperature independent paramagnetic behaviour.
+S0024379513003716:7	The spectral theory of matrix powers and the theory of matrix core is developed in max algebra and in nonnegative linear algebra simultaneously wherever possible, in order to unify and compare both versions of the same theory.
+S0024379513003716:6	Based on this, we describe the set of extremal rays of the core.
+S0025322712001600:162	The illite crystallinity proxies both show sharp increases above the depositional hiatus between 760cmbsf and 835cmbsf from 0.26 to 0.37 FHWM ∆2°θ and 0.40 to 0.57 I-Breadth ∆2°θ (i.e. lower crystallinity).
+S0025322712001600:105	At Indus-23 a possible depositional hiatus in the Mid Holocene is identified at ~640cmbsf below the present day seafloor (Fig. 4) (Limmer et al., 2012).
+S0031405612000728:229	The negative relationships observed between both root dry weight and microbial biomass-C with aggregate stability were not anticipated.
+S0031405612000728:163	Soil aggregate characteristics
+S0032063312000487:93	All model normals, and all normals determined using the two approaches described below, were defined to point out into magnetosheath, away from Saturn.
+S0032063312000487:122	At some of the crossings the minimum variance direction was poorly defined, particularly in the cases of a ratio approaching 1.
+S0032063312002437:63	The standard observing mode used during the period considered in this study was a scan in decreasing energy through 96 equal logarithmic steps, observing for 250ms at each.
+S0032063312002437:119	The resulting data were then divided into four bins depending upon the direction of travel of the spacecraft;•
+S0032063312003054:42	For the Earth, modelling by Newell et al. (2009), shows that diffuse aurora may account for 70% of the precipitating particle energy flux into the high-latitude ionosphere.
+S0032063312003054:58	Previous studies of "inverted-V" signatures using ELS and IMA were restricted by an earlier energy table of IMA before May 2007, which did not adequately resolve ion measurements below 50 eV.
+S0032063313003218:76	They found that, for compressions, there was a net transfer of power from magnetosphere to planet of ~325TW, due to the expected super-corotation of magnetospheric plasma.
+S0032063313003218:299	As a consequence, heat dissipated as Joule heating doubles, positive ion drag energy decreases by ~70% and negative ion drag energy increases by two orders of magnitude.
+S0032386113005454:313	The glass transition temperature of the unmodified epoxy polymer was 148 °C.
+S0032386113005454:96	Samples with a size of 40 × 40 × 3 mm3 were used, and loaded in compression between two parallel 12 mm wide dies.
+S0032386113009889:181	The energy contribution from plastic shear-band yielding, ΔGs, initiated by the presence of the particles is related to the size of the plastic zone from Ref.
+S0032386113009889:184	[13], to be:(7)F′(ry)=ry[(4π3vf)1/3(1-rpry)3-85(1-rpry)(rpry)5/2-1635(rpry)7/2-2(1-rpry)2+1635]where the rp is the radius of the particle and ry is the radius of the plane-strain plastic zone at the crack tip at fracture in the nanoparticle-modified polymer.
+S0038071711004354:37	Possible explanations include the accumulated influence of isotopic discrimination during selective microbial decomposition of specific substrates within the SOM (Nadelhoffer and Fry, 1988; Buchmann et al., 1997; Lin et al., 1999), and more importantly by the increased contribution of microbially derived C to SOM with depth (Ehleringer et al., 2000; Högberg et al., 2005).
+S0038071711004354:170	δ13C values (‰) of CO2 samples analysed by the CRDS were calculated using the Pee Dee Belemnite (PDB) standard.
+S0038071712001010:95	Gain and offset correction was applied to all of the diodes within the detector by applying a black (offset) and white (gain) reference to adjust for exposure variations.
+S0038071712001010:38	Smaller aggregates were not affected by AMF species.
+S0038071713001971:38	The yield decline usually occurs after two or three years of monoculture (as in this study), depending on crops, number of years and soil, and is usually attributed to the increase of yield-debilitating populations and switches of underground microbial communities (van Elsas et al., 2002).
+S0038071713001971:239	For a complex natural community, it is impossible that every environmental element encourages every community member: majority makes senses.
+S0040609012014393:21	The high performance properties are due to the ability to dope the SnO2 framework, enhancing the intrinsic n-type semiconducting properties by an order of magnitude or more [1].
+S0040609012014393:103	Hall Effect measurements identified all films as n-type semiconductors.
+S016412121300188X:177	∀x, y∈V: x depends on a implies y depends on a and a depends on x implies a depends on y.
+S016412121300188X:872	The paper also discusses inter-cluster dependence and how mutual dependencies between clusters may be exploited to reveal large dependence structure that form the basis of reverse engineering efforts.
+S0164121213002641:395	In addition to projecting the variables in f, as established in Proposition 1, the hash projection includes a variable computed by h that identifies the global state and is used to detect cycles in the trace.
+S0164121213002641:293	The simplest abstraction method generates a Spin state with only some (a small number) of the variables of the current Java state.
+S0165587612003680:133	Our results show that extended culture techniques and confocal microscopy together can identify live bacteria in 92% of cases, and we found biofilms in just under half of effusions.
+S0165587612003680:157	Variation in prevalence of OME over time has been previously documented [16], and may be due to patterns of antibiotic use or vaccination, particularly with the introduction of vaccines against H. influenzae type b and S. pneumoniae.
+S0167278913001450:5	Most applications are confined to flows on two-dimensional (2D) surfaces where the LCS are characterized as curves.
+S0167278913001450:206	We first consider a series of cases with Sv=A=[0.1,0.2,…,1.1], keeping B=C fixed at a value of 0.8 for max(Sw)=1.13.
+S0167577X13006393:126	The XPS data clearly indicates that the HA nanoparticles used in this experiment are deficient in calcium (Ca/P ratio=1.37).
+S0167577X13006393:117	In sintering processes, small individual structures merge together by diffusion to form bigger structures.
+S0167577X14001256:13	Solute segregation around screw dislocation core was similar to radiation induced segregation.
+S0167577X14001256:61	The defects are linear and extended in the [101¯] direction.
+S0167610512002292:106	This coupling between the rotational direction and the terminal plate horizontal speed can be explained by the presence of autorotational drag, lift and torque.
+S0167610512002292:158	In addition, Tachikawa used a Froude number, Fr=UwgL,and a dimensionless mass moment of inertia parameter, Δ=mL2I,where L is the characteristic length of the plate and I is the mass moment of inertia.
+S0167610513001001:29	Dispersal of pollutants in urban areas is a well-studied area and data for this, and for studies of rooftop wind turbines, may be obtained using conventional instrumented masts, or roof-mounted equipment.
+S0167610513001001:188	At higher wind speeds there are few data, so it is not possible to draw a robust conclusion for these conditions.
+S0167610513002729:6	As a result, concentration patterns are highly variable in time and mean profiles in the near field are strongly non-Gaussian.
+S0167610513002729:33	Specifically, the main questions investigated here are the following:•
+S0167739X12001525:222	The levels are ordered in a way such that lower levels offer faster and more local solutions than higher ones.
+S0167739X12001525:132	Therefore, a mechanism is required for the automatic adaptation between different templates without changing the templates themselves.
+S0167739X13001349:5	The speedup of a program on these machines depends on how well the latency is hidden.
+S0167739X13001349:470	Effect of the number of threads: the fact that the TMM model incorporates the number of threads per processor in the model is the primary differentiator between the PRAM and TMM models.
+S0167819113001051:400	It employs analogue circuits to implement most of the central dynamic functions.
+S0167819113001051:202	Each table entry has its own bitmap mask that will be applied to the source address before it is compared with the table entries in order.
+S0167880913001229:67	The Nicaragua site was located in Masatepe (11° 53′ 54″ N, 86° 08′ 56″ W) at 455m above sea level.
+S0167880913001229:245	This further emphasises the importance both of conservation of tree biomass in established forest and agroforestry systems and of avoiding practices that reduce stocks of SOC.
+S016816561300552X:136	While these modifications would be required to optimize the present protocol to ensure maximum yields of cells, this study represents a proof of principle that hiPSC can be expanded in clumps using automation without loss of quality.
+S016816561300552X:1	Investigating the feasibility of scale up and automation of human induced pluripotent stem cells cultured in aggregates in feeder free conditions
+S0168945213001805:651	A role in biotic stress was also demonstrated by ectopic expression of the apple gene for SPERMIDINE SYNTHETASE (SPDS1) in sweet orange, which reduced susceptibility to canker caused by Xanthomonas axonopodis pv.
+S0168945213001805:593	The wild-type trees had a net growth that was 13% less than those over-expressing the cry toxins from Bt.
+S0169433213008933:84	90×90μm and measured it with 512×512 pixels resolution, giving a pixel to pixel distance of 176nm, comparable to the 166nm for the optical profiler.
+S0169433213008933:122	Using Fresnel equations and optical constants from literature [33,34] we can easily calculate that, for instance, as little as 14nm of gold gives a perpendicular reflectance R=0.51 for a wavelength of 500nm, which is sufficient for characterization using an optical profiler and the vertical scan interference method.
+S0254629913003086:103	A comparison of shoot P concentration between C. genistoides grown in 1997 and a non-legume, Gnidia anomala showed no differences, younger shoots of the legume however accumulated greater P concentration compared to another non-legume, Tetraria bromoides (Table 2).
+S0254629913003086:104	A similar assay of enzymes was done for C. subternata planted at Kanetberg in 1999 and 2002.
+S0257897213007573:131	Similar to that of the CDC layer, the two contributions at low binding energy are assigned to the sp2 and sp3 C.
+S0257897213007573:37	The lubrication failure is attributed to the high porosity and the low strength of CDC coating.
+S0261219413001944:87	The experimental area was under glyphosate-resistant soybean production for three years prior to this study and was planted each year in no-till.
+S0261219413001944:56	Materials and methods
+S027737911400050X:9	We address the inconsistencies in and revisions of the tephrostratigraphies presented in prior literature, and discuss the challenges in correlating tephras and the limitations of the tephrostratigraphic record in this area.
+S027737911400050X:185	Accurate clast size measurement is thwarted further (especially close to the source volcano) by the deposition of clasts that are outliers to the main size distribution (Bonadonna et al., 2013), such as ballistic bombs, which can be problematic to distinguish from pumices, especially when both are degraded.
+S0301010413004096:102	The small increase in the intensity of this peak in the difference spectra upon increasing the H2 loading from 0.25 to 0.5 H2/Al suggests that the interacting site reaches saturation quickly, presumably owing to space constraints.
+S0301010413004096:41	In a typical gas adsorption experiment, ∼100mg of NOTT-300 was loaded into the IGA, and degassed at 120°C and high vacuum (10-10bar) for 1day to give fully desolvated NOTT-300.
+S0304406813000335:254	stable if it is both internally and externally stable.
+S0304406813000335:131	To make more precise observations about such a set, we need the notion of Hausdorff dimension, which we now introduce.
+S030881461301604X:36	The European Food Safety Authority (EFSA) set the BMDL0.1 value at 0.3 - 8μg/kg bw/day in 2010 (European Food Safety Authority, 2010).
+S030881461301604X:202	The inorganic arsenic intake of different age groups of children from rice-based baby food was also close to the lower BMDL0.1 value.
+S0378112713005288:55	Clashindarroch forest was established from 1930 onwards (Forestry Commission, 1964).
+S0378112713005288:146	No significant difference in regeneration densities was found between brown earth and peaty gley soils (F(1,3.95)=1.75, p=n.s.).
+S0378383911001669:46	The reservoir is constructed from Perspex and has inside dimensions of 983mm×394mm×832mm (length×width×height).
+S0378383911001669:183	O'Donoghue et al. (2010) presented turbulent kinetic energy results for their smooth and rough beaches, but were limited by measuring one component of velocity (u) only.
+S0378383912000130:292	The time that the wetting front reaches the groundwater occurs slightly earlier in the numerical predictions than in the experimental results, e.g.
+S0378383912000130:97	The pressure build-up then drives the wetting front towards the bed surface causing exfiltration, i.e. water is returned to the surface flow through the volume flux shown in Eq. (1).
+S0378383913001567:192	By applying this method, once the values of the auxiliary variable r¯˜*l are known, the values of the original variables r¯˜l at each stage of the Runge-Kutta method are computed by solving the following equation:(28)r≃*l=rl≃+H¯˜V¯˜′lin which V¯′l includes first and second derivative of r¯˜l/H¯˜ with respect to ξ1 and ξ2 and cross derivatives (see Appendix B).
+S0378383913001567:374	The waves propagating on the part of the domain characterised by the linearly varying bottom elevation (section B-B in Fig. 17) and water depths lower than those present at the rip channel (section A-A in Fig. 17) start to break earlier than the waves propagating on the rip channel.
+S037842901300244X:136	In the C0 evaluation, S1 progenies flowered three weeks later than the FS.
+S037842901300244X:225	The development of a marker-assisted population improvement scheme for enhancing quantitative Striga resistance in pearl millet could help render selection even more effective.
+S092181811300218X:39	According to Mutti et al. (1997, 1999) three depositional sequences, including shallow water to deeper water sediments, were differentiated in the northwestern Maiella.
+S092181811300218X:90	The first occurrence of Praeorbulina in Decontra section is in the uppermost part of the Cerratina cherty Limestone.
+S0921818113002245:291	Tauxe et al. (2006) provide strong reasons for the flocculation of magnetic grains in saline water columns, which they argue leads to an insignificant lock-in depth (i.e. only a strict DRM is acquired).
+S0921818113002245:254	The FORC results and complementary mineral magnetic data (e.g. χARM/SIRM ratios of approximately 160×10-5A/m and MDFARM between 40 and 45mT) indicate that non-interacting single-domain magnetosomal magnetite is the dominant carrier of natural and laboratory induced magnetizations in the laminated sections of the Gyltigesjön sediments (see Egli et al., 2010).
+S0925443913001385:167	In particular, there was a significant reduction of synthesis of COXI, COXII and COXIII subunits.
+S0925443913001385:84	Fractions (100μl) were collected and 10μl aliquots were analyzed directly by western blotting [47].
+S0925443913003037:224	Clinical phenotypes caused by mutations in the specific mt-aminoacyl-tRNA synthetases are associated with diversity in both tissue-specificity and clinical presentation [6].
+S0925443913003037:69	All sequence variants were cross-referenced against dbSNP (build 135) then investigated using in silico methodologies.
+S0927024813001955:53	These substrates were ultrasonically cleaned in acetone and isopropanol for 15min, successively.
+S0927024813001955:173	Supplementary data associated with this article can be found in the online version at 10.1016/j.solmat.2013.04.020.
+S0927024813002420:129	Moreover, the donor-acceptor ratio with the highest photocurrent generation (60% PTh) corresponds well with the percolation model of solution-blended films, in which weight ratios close to optimal 1:1 (volume equivalent ~3:2, or 60%) have the highest interface-to-volume ratio as well as the most-balanced percolation and charge carrier transport in the phases [51].
+S0927024813002420:53	PTh and C60 were deposited by vacuum thermal evaporation from separate tungsten boats (Leybold Optics) which were heated by a Xantrex XHR 7.5-80 DC Power Supply and TDK-Lambda Genesys 8-300 DC Power Supply, respectively.
+S0927024813002961:124	In the following, data concerning device performance is normalised to the second year of their operation on the current PV monitoring system.
+S0927024813002961:246	It should be noted, however, that CIGS-1 is not representative for CIGS technologies in general as CIGS-2 behaves more stably, even if the overall performance ratio appears to be rather low.
+S0927024813003036:228	In fact, the same defect parameters can be used to fit the experimental data in both cases.
+S0927024813003036:72	An equation analogous to Eq.
+S0927775713009606:110	To characterise the optical absorption properties of the prepared CdS/MS materials, DRUVs spectroscopy was employed (Fig. 5).
+S0927775713009606:51	Preparation of porous starch (MS)-supported CdS
+S0950705113001895:18	Rough Set Theory (RST) is a powerful mathematical tool for dealing with inexact, uncertain or vague information [10].
+S0950705113001895:466	In our experiment, we represent all the missing values by the set of all possible values of each attribute.
+S095741741101342X:139	The receiver operating characteristic curve (ROC) is a two-dimensional graphical illustration of the trade-off between the true positive rate (sensitivity) and false positive rate (1-specificity).
+S095741741101342X:20	Typical examples of low default portfolios include high-quality corporate borrowers, banks, sovereigns and some categories of specialised lending (Van Der Burgt, 2007) but in some countries even certain retail lending portfolios could turn out to have very low numbers of defaults compared to the majority class.
+S0960148113002048:73	Note that Eq.
+S0960148113002048:241	At low oscillation frequencies, strategies A and C work well.
+S0960148113002735:175	The different losses in the electrical system with different topologies can be seen by comparing the turbine power and the delivered power in Fig. 7.
+S0960148113002735:164	The mutual topology is unable to extract power from turbine 4 since the higher rotational velocity causes both a reduced CP (57% of the separate topology at 1800 s) and an increased core loss.
+S0960148113004989:220	Secondly, the functional gradient is obtained by:(10)ⅆJⅆm︸|J|×|m|=-λ∗︸|J|×|z|∂F∂m︸|z|×|m|+∂J∂m︸|J|×|m|.
+S0960148113004989:385	The simulations were performed with the same parameter settings as in the previous section (Table 1), but with an increased viscosity coefficient of ν = 30 m2 s-1 and a decreased turbine friction coefficient of K = 10.5.
+S096014811300517X:85	For the current blade, data is obtained from Ref.
+S096014811300517X:157	The maximum power coefficient in a tidal flow is therefore expected to be lower than the predictions in the present study, since a constant incoming flow velocity is considered here.
+S0960148113005727:283	Early turbine death is a third contributing reason.
+S0960148113005727:62	While we believe we are the first researchers to assess wind farm performance with this kind of ex-post data, a number of papers present techniques to estimate output levels from time series of wind data.
+S0960896612001022:73	This forms a downstream loop of single-stranded parental H-strand which is degraded, with subsequent ligation of the free H-strands and continued replication.
+S0960896612001022:50	Single mtDNA deletions are considered sporadic events with low inheritance risk, whereas multiple mtDNA deletions are the result of primary nuclear defects in genes responsible for mtDNA maintenance or nucleoside metabolism and follow Mendelian inheritance patterns [23].
+S0967064513002774:103	Changes in aragonite, CT and pH during incubation were not quantified.
+S0967064513002774:64	Site and experimental carbonate chemistry
+S1084804513001987:109	We define the optimal delay function of Link l, Dlopt(c), to specify the minimum delay value provided by link l at the cost constraint of c.
+S1084804513001987:125	The set of the representative points is called the non-dominated front (or Pareto front).
+S1161030113001950:24	Meanwhile we found disparities of calculated input need and reported fertilizer statistics both on local (country) scale and EU level.
+S1161030113001950:63	Some use strong extractants which dissolved strongly bound P and hence does not necessarily represent the actual labile pool of P in soils and others use week extractants like water or week acids which might underestimate available soil P (Neyroud and Lischer, 2003).
+S1359645413009816:57	Substantial crystallite growth up to 764±4nm (Ta=468K, Fig. 3c) takes place in the subsequent distinct annealing stage B.
+S1359645413009816:43	The measurements were performed with a Perkin Elmer DSC7 differential calorimeter, which determines the heat release for the annealing processes at different linear heating rates.
+S1359835X13001875:116	The size-inhabitation of the larger particles ensures that the Area Disorder cannot exceed that expected for a set of point-like particles (f=0).
+S1359835X13001875:105	In HRB a collection of N particles are divided into two populations, numbering p1N and p2N, with p1 and p2 being positive unit-less values satisfying p1+p2=1.
+S1367912013002277:14	Samples were collected from outcrops, soils, fluvial, lake, and marine sediment environments.
+S1367912013002277:82	For a detailed description of analysis methods and precision see Lee et al. (1997).
+S1386142513006823:47	FTIR spectra of the compounds were recorded as KBr-pellets within the range 4000-400cm-1 using a Perkin-Elmer 16PC FTIR spectrometer.
+S1386142513006823:4	Synthesis, spectroscopic, coordination and biological activities of some organometallic complexes derived from thio-Schiff base ligands
+S1387700313001822:25	The chirality delivery through non-covalent interactions has been studied based on the viewpoint of supramolecular chemistry [9].
+S1387700313001822:55	This negative CE demonstrates that the chiral of GMP delivers to GMP-Co(II) compounds and GMP mainly keeps the β-anomers in the complex.
+S1388248113001951:77	Although some voltage plateaus are still observed for NaFe0.5Co0.5O2, our in-situ XRD study revealed that a two phase region for NaFe0.5Co0.5O2 existed only at the beginning of charge process as O3-P3 phase transition [15].
+S1388248113001951:26	The electrode reversibility is, however, significantly deteriorated by extending higher voltage above 3.5V.
+S1389128612002496:70	The first category represents the LDDoS attacks whose aggregate attack period is equally distributed among n flows.
+S1389128612002496:28	Our contributions are summarized as follows:•
+S1550413113004920:65	In keeping with these observations, Mnx1 null mice have aberrant motor neuron differentiation but are difficult to study as they die at birth due to respiratory paralysis, which probably results from failure in the development of the phrenic nerve (Thaler et al., 1999).
+S1550413113004920:127	A.T.H. and S.E. are both employed as core members of the Exeter NIHR Clinical Research Facility.
+S1570870512000637:325	The rage of these devices was about 10m and encounters were uploaded to a base station regularly (but the base station did not have any role in forwarding).
+S1570870512000637:451	All protocols manage highest availability over the Infocom 2006 trace [33] because this trace is highly social (allows repeating patterns of connectivity) that allows for accurate social/connectivity predictions that CafRep, EBR [26], RR [38] and SnF [37] use.
+S175058361300203X:130	The slight increase in CO2 saturation with the isothermal temperature of 38°C follows from the small increase in pressure that, in turn, is due to a lower CO2 density.
+S175058361300203X:138	The resulting difference between the scenarios in Vp is less than 5m/s.
+S1750583613004192:262	The maximum ice load does not need to be located directly above the Utsira Formation as, for a hydraulically connected aquifer, a lateral transmission of pressure will occur for tens of kilometers.
+S1750583613004192:114	However, the crucial distinction between our model and other approaches is our assumption concerning the dominant physics of the flow process.
+S1873506113001116:264	Interestingly, although comparable amount of HPCs and CFU was derived from hiPSCs expanded in bioreactor as in adhesion, HPCs derived from TNC1 in bioreactor generated a considerably higher proportion of cells in erythroid lineage rather than in myelocyte lineage.
+S1873506113001116:96	Cryopreservation and recovery of hiPSCs in suspension culture
+S1873506114000075:119	Peptides (22-34 peptides; GSPAINVAMHVFR) derived from ATTR had a molecular mass of 700m/z.
+S1873506114000075:161	Production of wild-type TTR and ATTR Val30Met by differentiated hepatocyte-like cells
+S2211124712002884:61	The first step, induction of multilineage differentiation and embryoid body (EB) formation, was inefficient when iPSCs were maintained on feeder cells.
+S2211124712002884:49	The total expression of each reprogramming factor was not different from that of the endogenous gene (Figures 1A-1C), indicating complete transgene silencing.
+S2211124713006475:202	An Experimental Platform for the Efficient Generation of Human Cranial Placodes In Vitro
+S2211124713006475:84	We also observed significant transcriptional changes in WNT and BMP pathway components such as an increase in the WNT pathway inhibitor DKK-1 and BMP antagonists, such as GREMLIN-1 and BAMBI (Figures 2B-2D), which are known transcriptional targets of BMP signaling (Grotewold et al., 2001).
+S2211753914000025:18	Specimens sent to surgical pathology demonstrated granulation tissue with chronic inflammation.
+S2211753914000025:52	We describe a confined local Phialemonium infection in the tympanomastoid cavity without any systemic manifestations.
+S2213158213000302:39	In PSP atrophy is severe in the upper brain stem and superior cerebellar peduncle, with moderate atrophy of medial prefrontal cortex, insula/frontal operculum, cingulate cortex, precentral gyrus and superior parietal lobule (Brenneis et al., 2004; Chiu et al., 2012; Ghosh et al., 2012; Nicoletti et al., 2008).
+S2213158213000302:96	Analyses were conducted on the waveforms from the primary orientation of the regional sources.
+S2213158213000582:97	After a band-pass (0.1-330Hz) and 60Hz notch filter, MEG signals were digitized at 1000Hz.
+S2213158213000582:103	To coregister MEG and sMRI data, three anatomical landmarks (nasion and right and left preauriculars) as well as an additional 150+ points on the scalp and face were digitized for each subject using the Probe Position Identification (PPI) System (Polhemus, Colchester, VT).
+S2213158213001253:118	In this paper, we use voxel for 3-dimensional images and pixel for 2-dimensional images.
+S2213158213001253:229	Finally, we concatenated the vectors from the three contrast maps, and obtained a 1474-dimension vector for each subject.
+S2213671113000672:82	Most strikingly, there was a mutant gene-dose-dependent increase in caspase-cleaved TAU fragments, as determined by the caspase-cleaved TAU-specific antibody C3 (Gamblin et al., 2003; Guillozet-Bongaarts et al., 2005), in neurons derived from the isogenic TAU-A152T-iPSCs (Figures 4J and 4K).
+S2213671113000672:88	Genetic Correction of TAU-A152T Eliminates the Detrimental Effects of the Mutation on Different Subtypes of Neurons
+S2213671113000738:63	Intriguingly, the serum level of IFN-γ temporarily increased at 2 months after the transplant in three animals (Figure 3C).
+S2213671113000738:53	Autografts Elicit Only a Minimal Immune Response in the Primate Brain
+S2213671113000908:6	Here, we have addressed this limitation for the endodermal lineage by developing a defined culture system to expand and differentiate human foregut stem cells (hFSCs) derived from hPSCs. hFSCs can self-renew while maintaining their capacity to differentiate into pancreatic and hepatic cells.
+S2213671113000908:128	However, hFSCs could also have the unique capacity to generate lung/thyroid cells while they have lost their capacity to generate gut cells.
+S2213671113000921:84	Subsequent differentiation to AFE was achieved through addition of bone morphogenetic protein (BMP) antagonists noggin and SB431542 (stage 2).
+S2213671113000921:59	The GFP+ cells grew as compact colonies characteristic of the undifferentiated state, whereas the GFP- cells had a fibroblast-like morphology typical of differentiating hESCs (Figure S2F).
+S2213671113001288:118	This conclusion was also extended to hypermethylation signatures identified by others (Lister et al., 2011; Ruiz et al., 2012).
+S2213671113001288:132	Briefly, hiPSCs were generated from IMR90, CCD-1097SK, BJ1, and NPC cells derived from 11-week-old fetal brain using retroviral expression of OCT4, SOX2, KLF4, and c-MYC or OCT4, NANOG, KLF4, and LIN-28.
+S2213671113001306:38	However, much is still not understood with regard to the physiology of stem-cell-derived RPE (Liao et al., 2010) and transplantation into patients is in the early stages.
+S2213671113001306:264	Pan-cytokeratin was visualized with the Biotin-ExtrAvidin-AEC chromogen system.

@@ -34,7 +34,7 @@ public class OriginalMinIE {
         builder.append("Input Sentence");
         builder.append('\n');
         
-        File file = new File("C:\\Users\\songi\\Desktop\\oa_200randsents.txt"); 
+        File file = new File("SVM_model/Evaluation_Data/oa_200randsents.txt"); 
         
         BufferedReader br = null;
         try {
@@ -69,6 +69,14 @@ public class OriginalMinIE {
 	            for (AnnotatedProposition ap: minie.getPropositions()) {
 	            	builder.append(',');
 	                builder.append(ap.getTripleAsString());
+	                builder.append(',');
+	                builder.append(ap.getFactualityAsString());
+	                builder.append(',');
+	                if (ap.getAttribution().getAttributionPhrase() != null) {   	
+		                builder.append(ap.getAttribution().toStringCompact());
+	                }else{
+	                	builder.append("NONE");
+	                }
 	                builder.append('\n');
 	            }
 	            builder.append('\n');
