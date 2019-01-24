@@ -1,8 +1,12 @@
 package de.uni_mannheim.minie;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
+import java.util.regex.*;
 
 import de.uni_mannheim.clausie.ClausIE;
 import de.uni_mannheim.clausie.clause.Clause;
@@ -44,6 +48,8 @@ import edu.stanford.nlp.util.CoreMap;
 import it.unimi.dsi.fastutil.objects.ObjectArrayList;
 import it.unimi.dsi.fastutil.objects.ObjectOpenHashSet;
 
+
+
 /**
  * @author Kiril Gashteovski
  */
@@ -63,7 +69,40 @@ public class MinIE {
     /** Reusability variables **/
     private ObjectOpenHashSet<String> propsWithAttribution;
     
-    /** Constructor **/
+    private boolean isCitation = false;
+    
+    private String newSentence = "";
+    
+    private String citePolarity ="";
+    
+    public String getCitePolarity() {
+		return citePolarity;
+	}
+
+	public void setCitePolarity(String citePolarity) {
+		this.citePolarity = citePolarity;
+	}
+
+	public String getCitePurpose() {
+		return citePurpose;
+	}
+
+	public void setCitePurpose(String citePurpose) {
+		this.citePurpose = citePurpose;
+	}
+
+	private String citePurpose ="";
+    
+
+	public String getNewSentence() {
+		return newSentence;
+	}
+
+	public void setNewSentence(String newSentence) {
+		this.newSentence = newSentence;
+	}
+
+	/** Constructor **/
     public MinIE(ObjectArrayList<AnnotatedProposition> props){
         this.propositions = props;
     }
@@ -114,7 +153,9 @@ public class MinIE {
         this.sentence = new ObjectArrayList<>();
         this.propsWithAttribution = new ObjectOpenHashSet<>();
         
-        this.minimize(sentence, parser, mode, new Dictionary());
+        this.setNewSentence(this.detectCitationAndPreprocessing(sentence));
+        
+        this.minimize(newSentence, parser, mode, new Dictionary());
     }
     
     /**
@@ -131,8 +172,11 @@ public class MinIE {
         this.sentence = new ObjectArrayList<>();
         this.propsWithAttribution = new ObjectOpenHashSet<>();
         
-        this.minimize(sentence, sg, mode, new Dictionary());
+        this.setNewSentence(this.detectCitationAndPreprocessing(sentence));
+
+        this.minimize(newSentence, sg, mode, new Dictionary());
     }
+    
 
     /**
      * @param sentence - input sentence
@@ -170,6 +214,9 @@ public class MinIE {
         this.setPropositions(clausie);
         this.setPolarity();
         this.setModality();
+        if(this.isCitation == true){
+        	this.setCitePolarityAndPurpose(sentence);
+        }
         
         // Minimize according to the modes (COMPLETE mode doesn't minimize) 
         if (mode == Mode.SAFE)
@@ -203,7 +250,9 @@ public class MinIE {
         this.setPropositions(clausie);
         this.setPolarity();
         this.setModality();
-        
+        if(this.isCitation == true){
+        	this.setCitePolarityAndPurpose(sentence);
+        }
         // Minimize according to the modes (COMPLETE mode doesn't minimize) 
         if (mode == Mode.SAFE)
             this.minimizeSafeMode();
@@ -305,7 +354,7 @@ public class MinIE {
      * @param proposition
      */
     public boolean detectAttribution(Proposition proposition){
-        // If the proposition is of size 2, return (nothing to detect here, it's an SV)
+    	// If the proposition is of size 2, return (nothing to detect here, it's an SV)
         if (proposition.getConstituents().size() < 3)
             return false;
         
@@ -326,6 +375,7 @@ public class MinIE {
         relation.setRoot(CoreNLPUtils.getRootFromWordList(this.sentenceSemGraph, relation.getWordList()));
         IndexedWord root = relation.getRoot();
         if (root == null) return true;
+        
         
         // Detect "according to..." patterns by checking the adverbials (i.e. the objects)
         if (object.getWordList().size() > 2){
@@ -425,7 +475,7 @@ public class MinIE {
                 }
             }
         }
-        
+
         return attributionDetected;
     }
     
@@ -438,7 +488,7 @@ public class MinIE {
      * @param s: the attribution
      */
     public void generatePropositionsWithAttribution(ClausIE clausieObj, SemanticGraph objSg, Attribution s){
-        // New clausie object
+    	// New clausie object
         clausieObj.clear();
         clausieObj.setSemanticGraph(objSg);
         clausieObj.detectClauses();
@@ -467,6 +517,7 @@ public class MinIE {
             }
         }
     }
+    
     
     public void pushWordsToRelationsInPropositions() {
         for (int i = 0; i < this.propositions.size(); i++) {
@@ -535,7 +586,6 @@ public class MinIE {
                 // Handle possessives
                 // TODO: check this out
                 //this.processPoss(prop);
-                
                 this.propositions.add(aProp);
             }
         }
@@ -583,7 +633,7 @@ public class MinIE {
         extractions.generateImplicitExtractions();
         int id = 0;
         for (AnnotatedProposition aProp: extractions.getImplicitExtractions()) {
-            id++;
+        	id++;
             aProp.setId(id);
             this.propositions.add(aProp);
         }
@@ -976,14 +1026,14 @@ public class MinIE {
             // In some cases, there's only one word, in which case we don't drop anything
             if (this.propositions.get(i).getRelation().getWordList().size() == 1)
                 continue;
-            
             pol = Polarity.getPolarity(this.propositions.get(i).getRelation(), this.sentenceSemGraph);
             this.propositions.get(i).setPolarity(pol);
             
             // If the polarity is negative, drop the negative words
             this.propositions.get(i).getRelation().removeWordsFromList(pol.getNegativeWords());
         }
-    } 
+    }
+        
     
     /** Set the modality for all annotated propositions */
     public void setModality(){
@@ -1052,4 +1102,108 @@ public class MinIE {
         }
         this.pushWordsToRelationsInPropositions();
     }
+    
+    public String detectCitationAndPreprocessing (String sentence){
+    	boolean citationDetected = false;
+    	
+    	//(Walters,1994)
+    	if (citationDetected == false){
+    		citationDetected = Pattern.matches(".*[(][a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\,\\s[0-9]{4}[)].*", sentence);
+    	}
+    	//(Li and Crane, 1993)
+    	if (citationDetected == false){
+    		citationDetected = Pattern.matches(".*[(][a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\s(and|&)\\s[a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\,\\s[0-9]{4}[)].*", sentence);
+    	}
+    	//(Walters, et al., 1992)
+    	if (citationDetected == false){
+    		citationDetected = Pattern.matches(".*[(][a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\,\\set\\sal\\.\\,\\s[0-9]{4}[)].*", sentence);
+    	}
+    	//(Nadelhoffer and Fry, 1988; Buchmann et al., 1997; Lin et al., 1999)
+    	if (citationDetected == false){
+    		citationDetected = Pattern.matches(".*[(][a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\,\\s[0-9]{4}[[\\;]\\s[a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\,\\s[0-9]{4}]+[)].*", sentence);
+    	}
+    	//Cite: Walters (1994) believes that ...    	
+    	if (citationDetected == false){	
+    		citationDetected = Pattern.matches(".*[a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\s[(][0-9]{4}[)].*", sentence);
+    	}
+    	//Cite: Walters and Li (1994) believes that ...  
+    	if (citationDetected == false){
+        	citationDetected = Pattern.matches(".*[a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\s(and|&)\\s[a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\s[(][0-9]{4}[)].*", sentence);
+    	}
+    	//Cite: Walters et al. (1994) believes that ... 
+    	if (citationDetected == false){   		   	
+        	citationDetected = Pattern.matches(".*[a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\set\\sal\\.\\s[(][0-9]{4}[)].*", sentence);
+    	}
+    	//Walters et al. (1994,1998) believes that ... 
+    	if (citationDetected == false){   		   	
+        	citationDetected = Pattern.matches(".*[(][0-9]{4}[[\\;|\\,]+\\s?[0-9]+]+[)].*", sentence);
+    	}
+    	//Preprocessing for sentence    	
+    	sentence = sentence.replaceAll("[(][a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\,\\s[0-9]{4}[)]", "");
+    	sentence = sentence.replaceAll("[(][a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\s(and|&)\\s[a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\,\\s[0-9]{4}[)]", "");
+    	sentence = sentence.replaceAll("[(][a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\,\\set\\sal\\.\\,\\s[0-9]{4}[)]", "");	
+    	sentence = sentence.replaceAll("[(][a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\,\\s[0-9]{4}[[\\;]\\s[a-zA-Z\\s\\,\\.\\'\\-\\pL]+\\,\\s[0-9]{4}]+[)]", "");	
+    	sentence = sentence.replaceAll("[(][0-9]{4}[)]", "");
+    	sentence = sentence.replaceAll("[(][0-9]{4}[[\\;|\\,]+\\s?[0-9]+]+[)]", "");
+    	
+    	System.out.println("citationDetected " + citationDetected);
+    	System.out.println("New sentence: " + sentence);
+    	this.setCitation(citationDetected);
+    	return sentence;
+    }
+    
+    /** Sets the polarity and purpose of cite for each annotated proposition **/
+    public void setCitePolarityAndPurpose(String sentence) {
+    	
+        //set default polarity and purpose
+    	String polarity = "positive";
+        String purpose = "base";
+        List <String> lines = new ArrayList<String>();
+       	String exe = "python";
+       	String command = "C:/Users/songi/git/minie/src/main/SVM_model_for_citation_classification/SVM_model_for_citation_classification.py";
+       	String num1 = sentence;
+       	String[] cmdArr = new String[] {exe, command, num1};
+       	Process pr;
+   		try {
+    		pr = Runtime.getRuntime().exec(cmdArr);
+    		BufferedReader in = new BufferedReader(new InputStreamReader(pr.getInputStream()));
+    	    String line;	
+    		while ((line = in.readLine()) != null) {
+    			System.out.println(line);
+    			lines.add(line);
+    		}
+    			in.close();
+    			pr.waitFor();    						 
+    	} catch (IOException e) {
+    		// TODO Auto-generated catch block
+    		e.printStackTrace();
+    	} catch (InterruptedException e) {
+    		// TODO Auto-generated catch block
+    		e.printStackTrace();
+    	}       	
+   		if(lines.size()>=2){
+	    	polarity = lines.get(1) ;
+	    	purpose = lines.get(2);
+	    	this.setCitePolarity(polarity);
+	    	this.setCitePurpose(purpose);
+   		}
+    	for (int i = 0; i < this.propositions.size(); i++){
+    		// In some cases, there's only one word, in which case we don't drop anything
+            if (this.propositions.get(i).getRelation().getWordList().size() == 1)
+            	continue;
+                
+            this.propositions.get(i).setCitePolarity(polarity);
+            this.propositions.get(i).setCitePurpose(purpose);
+                
+        }
+    }
+    
+    
+    public boolean isCitation() {
+		return isCitation;
+	}
+
+	public void setCitation(boolean isCitation) {
+		this.isCitation = isCitation;
+	}
 }

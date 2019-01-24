@@ -20,6 +20,8 @@ public class AnnotatedProposition {
     private Modality modality;
     /** The ID is w.r.t the sentence from which the proposition is extracted. The default ID is -1 **/
     private int id; 
+    private String citePolarity = null;
+    private String citePurpose = null;
     
     /** Default constructor: empty triple, default attribution, polarity, modality **/
     public AnnotatedProposition(){
@@ -94,6 +96,12 @@ public class AnnotatedProposition {
     public void setPolarity(Polarity p){
         this.polarity = p;
     }
+    public void setCitePolarity(String p){
+        this.citePolarity = p;
+    }
+    public void setCitePurpose(String p){
+        this.citePurpose = p;
+    }
     public void setModality(Modality m){
         this.modality = m;
     }
@@ -140,6 +148,12 @@ public class AnnotatedProposition {
     }
     public Polarity getPolarity(){
         return this.polarity;
+    }
+    public String getCitePolarity(){
+        return this.citePolarity;
+    }
+    public String getCitePurpose(){
+        return this.citePurpose;
     }
     public Modality getModality(){
         return this.modality;
@@ -237,6 +251,18 @@ public class AnnotatedProposition {
         return sb.toString();
     }
     
+    /** Get Cite classification result as a string in format "(POLARITY, PURPOSE)" **/
+    public String getCiteAsString() {
+        StringBuffer sb = new StringBuffer();
+        sb.append(CHARACTER.LPARENTHESIS);
+        sb.append(this.citePolarity);
+        sb.append(CHARACTER.COMMA);
+        sb.append(" ");
+        sb.append(this.citePurpose);
+        sb.append(CHARACTER.RPARENTHESIS);
+        return sb.toString();
+    }
+    
     public String toStringAllAnnotations(){
        StringBuffer sb = new StringBuffer();
         
@@ -304,6 +330,8 @@ public class AnnotatedProposition {
        } else {
            sb.append("NO SOURCE DETECTED");
        }
+       
+       
        
        return sb.toString();
     }

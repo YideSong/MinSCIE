@@ -1,0 +1,141 @@
+id	Input Sentence	New Sentence		
+0	"	Both taxa are produced in abundance by a variety of coniferous plants, and are typical in the Paleogene of the northern UK and Greenland region (Boulter and Manum, 1989; Jolley and Whitham, 2004; Jolley and Morton, 2007), as well as mid-latitude North America (Smith et al., 2007) and Arctic Canada (Greenwood and Basinger, 1993)."	"	Both taxa are produced in abundance by a variety of coniferous plants, and are typical in the Paleogene of the northern UK and Greenland region , as well as mid-latitude North America  and Arctic Canada ."	Positive	Comparison
+	"taxa	""are produced in abundance by variety of""	""coniferous plants""	"			
+	"taxa	""are produced in""	""abundance""	"			
+	"taxa	""are typical in Paleogene of""	""northern UK""	"			
+	"taxa	""are typical in Paleogene of""	""Greenland region""	"			
+	"taxa	""are""	""typical""	"			
+				
+1	"	Diatom ¦Ä30Si is a proxy for diatom silicic acid utilisation (Fig. 2a) because frustule growth preferentially incorporates 28Si over 30Si with 30¦Å?-1.1¡ë (De La Rocha et al., 1997)."	"	Diatom ¦Ä30Si is a proxy for diatom silicic acid utilisation (Fig. 2a) because frustule growth preferentially incorporates 28Si over 30Si with 30¦Å?-1.1¡ë ."	Neutral	Criticizing
+	"Diatom ¦Ä30Si	""is proxy for""	""diatom silicic acid utilisation""	"			
+	"Diatom ¦Ä30Si	""is""	""proxy""	"			
+	"diatom silicic acid utilisation	""is""	""Fig. 2a""	"			
+	"frustule growth	""incorporates""	""28Si over 30Si with QUANT_O_1 ¡ë""	"			
+				
+2	"	Today, incomplete nutrient utilisation makes this a region of CO2 venting to the atmosphere (Marinov et al., 2006)."	"	Today, incomplete nutrient utilisation makes this a region of CO2 venting to the atmosphere ."	Neutral	Criticizing
+	"incomplete nutrient utilisation	""makes region of CO2 venting to atmosphere""	""Today""	"			
+	"CO2	""be venting to""	""atmosphere""	"			
+				
+3	"	These features reached pressures in the 300-500mb range (Sromovsky et al., 2007), which is well above the 1.2-bar methane condensation level (Sromovsky et al., 2011)."	"	These features reached pressures in the 300-500mb range , which is well above the 1.2-bar methane condensation level ."	Positive	Comparison
+	"features	""reached pressures in""	""300-500mb range""	"			
+	"features	""reached""	""pressures""	"			
+	"300-500mb range	""is above""	""well 1.2-bar methane condensation level""	"			
+				
+4	"	We have run all simulations for solar minimum conditions (May 15, 2008), identical to the fluxes used by Galand et al. (2009, 2011)."	"	We have run all simulations for solar minimum conditions (May 15, 2008), identical to the fluxes used by Galand et al. ."	Neutral	Criticizing
+	"We	""have run QUANT_R_1 simulations for solar minimum conditions""	""identical to fluxes used by Galand et al.""	"			
+	"We	""have run QUANT_O_1 simulations for""	""solar minimum conditions""	"			
+	"fluxes	""be used by""	""Galand et al.""	"			
+				
+5	"	These concentrations are both many orders of magnitude lower than the observed abundance at the Phoenix landing site: 0.4-0.6wt.% (Hecht et al., 2009)."	"	These concentrations are both many orders of magnitude lower than the observed abundance at the Phoenix landing site: 0.4-0.6wt.% ."	Neutral	Criticizing
+				
+6	"	At Indus-23 a possible depositional hiatus in the Mid Holocene is identified at ~640cmbsf below the present day seafloor (Fig. 4) (Limmer et al., 2012)."	"	At Indus-23 a possible depositional hiatus in the Mid Holocene is identified at ~640cmbsf below the present day seafloor (Fig. 4) ."	Neutral	Criticizing
+	"possible depositional hiatus in Mid Holocene	""is identified at QUANT_R_1 640cmbsf below the present day seafloor At""	""Indus-23""	"			
+	"possible depositional hiatus in Mid Holocene	""is identified at QUANT_O_1 640cmbsf below""	""the present day seafloor""	"			
+	"the present day seafloor	""is""	""Fig. QUANT_O_1""	"			
+				
+7	"	For the Earth, modelling by Newell et al. (2009), shows that diffuse aurora may account for 70% of the precipitating particle energy flux into the high-latitude ionosphere."	"	For the Earth, modelling by Newell et al. , shows that diffuse aurora may account for 70% of the precipitating particle energy flux into the high-latitude ionosphere."	Neutral	Criticizing
+	"diffuse aurora	""account for QUANT_R_1 of precipitating particle energy flux into""	""high-latitude ionosphere""	"			
+	"diffuse aurora	""account for QUANT_O_1 of""	""precipitating particle energy flux""	"			
+				
+8	"	Possible explanations include the accumulated influence of isotopic discrimination during selective microbial decomposition of specific substrates within the SOM (Nadelhoffer and Fry, 1988; Buchmann et al., 1997; Lin et al., 1999), and more importantly by the increased contribution of microbially derived C to SOM with depth (Ehleringer et al., 2000; H?gberg et al., 2005)."	"	Possible explanations include the accumulated influence of isotopic discrimination during selective microbial decomposition of specific substrates within the SOM , and more importantly by the increased contribution of microbially derived C to SOM with depth ."	Positive	Comparison
+	"Possible explanations	""include""	""accumulated influence of isotopic discrimination during selective microbial decomposition of specific substrates within SOM""	"			
+	"Possible explanations	""include""	""more importantly by increased contribution of microbially derived C to SOM with depth""	"			
+				
+9	"	The yield decline usually occurs after two or three years of monoculture (as in this study), depending on crops, number of years and soil, and is usually attributed to the increase of yield-debilitating populations and switches of underground microbial communities (van Elsas et al., 2002)."	"	The yield decline usually occurs after two or three years of monoculture (as in this study), depending on crops, number of years and soil, and is usually attributed to the increase of yield-debilitating populations and switches of underground microbial communities ."	Neutral	Criticizing
+	"yield decline	""occurs after""	""QUANT_O_1 years of monoculture as in study""	"			
+	"yield decline	""occurs after""	""QUANT_O_1 years of monoculture as in study""	"			
+	"yield decline	""occurs after QUANT_R_1 years of monoculture as in study depending on""	""crops""	"			
+	"yield decline	""occurs after QUANT_R_1 years of monoculture as in study depending on""	""crops""	"			
+				
+10	"	Accurate clast size measurement is thwarted further (especially close to the source volcano) by the deposition of clasts that are outliers to the main size distribution (Bonadonna et al., 2013), such as ballistic bombs, which can be problematic to distinguish from pumices, especially when both are degraded."	"	Accurate clast size measurement is thwarted further (especially close to the source volcano) by the deposition of clasts that are outliers to the main size distribution , such as ballistic bombs, which can be problematic to distinguish from pumices, especially when both are degraded."	Neutral	Criticizing
+	"Accurate clast size measurement	""is thwarted""	""further especially close to source volcano by deposition of clasts""	"			
+	"clasts	""are outliers to main size distribution such as""	""ballistic bombs""	"			
+	"clasts	""are""	""outliers""	"			
+	"ballistic bombs	""be""	""problematic to distinguish from pumices""	"			
+	"both	""are degraded""	""ballistic bombs""	"			
+				
+11	"	The European Food Safety Authority (EFSA) set the BMDL0.1 value at 0.3 - 8¦Ìg/kg bw/day in 2010 (European Food Safety Authority, 2010)."	"	The European Food Safety Authority (EFSA) set the BMDL0.1 value at 0.3 - 8¦Ìg/kg bw/day in 2010 ."	Neutral	Criticizing
+	"European Food Safety Authority	""is""	""EFSA""	"			
+	"European Food Safety Authority	""set / BMDL0 QUANT_R_1 value at QUANT_O_1 kg bw/day in""	""2010""	"			
+	"European Food Safety Authority	""set / BMDL0 QUANT_R_1 value kg bw/day in""	""2010""	"			
+				
+12	"	Clashindarroch forest was established from 1930 onwards (Forestry Commission, 1964)."	"	Clashindarroch forest was established from 1930 onwards ."	Neutral	Criticizing
+	"Clashindarroch forest	""was established from""	""1930 onwards""	"			
+				
+13	"	O'Donoghue et al. (2010) presented turbulent kinetic energy results for their smooth and rough beaches, but were limited by measuring one component of velocity (u) only."	"	O'Donoghue et al.  presented turbulent kinetic energy results for their smooth and rough beaches, but were limited by measuring one component of velocity (u) only."	Neutral	Criticizing
+	"presented turbulent kinetic energy	""results for""	""smooth beaches""	"			
+	"presented turbulent kinetic energy	""results for""	""rough beaches""	"			
+	"presented turbulent kinetic energy	""were limited by measuring QUANT_O_1 component of""	""velocity only""	"			
+	"their	""has""	""smooth beaches""	"			
+	"their	""has""	""rough beaches""	"			
+	"velocity	""is""	""u""	"			
+				
+14	"	According to Mutti et al. (1997, 1999) three depositional sequences, including shallow water to deeper water sediments, were differentiated in the northwestern Maiella."	"	According to Mutti et al.  three depositional sequences, including shallow water to deeper water sediments, were differentiated in the northwestern Maiella."	Neutral	Criticizing
+	"shallow water	""is""	""depositional sequences""	"			
+	"QUANT_S_1 depositional sequences including shallow water to deeper water sediments	""were differentiated in""	""Maiella""	"			
+				
+15	"	Tauxe et al. (2006) provide strong reasons for the flocculation of magnetic grains in saline water columns, which they argue leads to an insignificant lock-in depth (i.e. only a strict DRM is acquired)."	"	Tauxe et al.  provide strong reasons for the flocculation of magnetic grains in saline water columns, which they argue leads to an insignificant lock-in depth (i.e. only a strict DRM is acquired)."	Neutral	Criticizing
+	"they	""argue flocculation of magnetic grains in saline water columns""	""leads to insignificant lock-in depth""	"			
+	"only strict DRM	""is acquired""	"			
+				
+16	"	The FORC results and complementary mineral magnetic data (e.g. ¦ÖARM/SIRM ratios of approximately 160¡Á10-5A/m and MDFARM between 40 and 45mT) indicate that non-interacting single-domain magnetosomal magnetite is the dominant carrier of natural and laboratory induced magnetizations in the laminated sections of the Gyltigesj?n sediments (see Egli et al., 2010)."	"	The FORC results and complementary mineral magnetic data (e.g. ¦ÖARM/SIRM ratios of approximately 160¡Á10-5A/m and MDFARM between 40 and 45mT) indicate that non-interacting single-domain magnetosomal magnetite is the dominant carrier of natural and laboratory induced magnetizations in the laminated sections of the Gyltigesj?n sediments ."	Neutral	Criticizing
+	"non-interacting single-domain magnetosomal magnetite	""is dominant carrier of""	""natural""	"			
+	"non-interacting single-domain magnetosomal magnetite	""is dominant carrier of""	""laboratory""	"			
+	"non-interacting single-domain magnetosomal magnetite	""is""	""dominant carrier""	"			
+				
+17	"	Typical examples of low default portfolios include high-quality corporate borrowers, banks, sovereigns and some categories of specialised lending (Van Der Burgt, 2007) but in some countries even certain retail lending portfolios could turn out to have very low numbers of defaults compared to the majority class."	"	Typical examples of low default portfolios include high-quality corporate borrowers, banks, sovereigns and some categories of specialised lending  but in some countries even certain retail lending portfolios could turn out to have very low numbers of defaults compared to the majority class."	Positive	Comparison
+	"Typical examples of low default portfolios	""include""	""high-quality corporate borrowers""	"			
+	"Typical examples of low default portfolios	""include""	""banks""	"			
+	"Typical examples of low default portfolios	""include""	""sovereigns""	"			
+	"Typical examples of low default portfolios	""include QUANT_O_1 categories of""	""specialised lending""	"			
+	"even certain retail lending portfolios	""turn out to have very low numbers of defaults compared to majority class in""	""QUANT_O_1 countries""	"			
+	"even certain retail lending portfolios	""turn out to have""	""very low numbers of defaults compared to majority class""	"			
+				
+18	"	Some use strong extractants which dissolved strongly bound P and hence does not necessarily represent the actual labile pool of P in soils and others use week extractants like water or week acids which might underestimate available soil P (Neyroud and Lischer, 2003)."	"	Some use strong extractants which dissolved strongly bound P and hence does not necessarily represent the actual labile pool of P in soils and others use week extractants like water or week acids which might underestimate available soil P ."	Neutral	Criticizing
+	"water	""is""	""week extractant""	"			
+	"week acids	""is""	""week extractant""	"			
+	"QUANT_S_1	""use""	""strong extractants""	"			
+	"strong extractants	""dissolved""	""strongly bound P""	"			
+	"strong extractants	""does represent""	""actual labile pool of P in soils""	"			
+	"others	""use week extractants like""	""water""	"			
+	"others	""use week extractants like""	""week acids""	"			
+	"others	""use""	""week extractants""	"			
+	"water	""underestimate""	""available soil P""	"			
+	"week acids	""underestimate""	""available soil P""	"			
+				
+19	"	For a detailed description of analysis methods and precision see Lee et al. (1997)."	"	For a detailed description of analysis methods and precision see Lee et al. ."	Neutral	Criticizing
+				
+20	"	In keeping with these observations, Mnx1 null mice have aberrant motor neuron differentiation but are difficult to study as they die at birth due to respiratory paralysis, which probably results from failure in the development of the phrenic nerve (Thaler et al., 1999)."	"	In keeping with these observations, Mnx1 null mice have aberrant motor neuron differentiation but are difficult to study as they die at birth due to respiratory paralysis, which probably results from failure in the development of the phrenic nerve ."		
+	"Mnx1 null mice	""have aberrant motor neuron differentiation In keeping with""	""observations""	"			
+	"Mnx1 null mice	""have""	""aberrant motor neuron differentiation""	"			
+	"they	""die at""	""birth due to respiratory paralysis""	"			
+	"they	""die""	"			
+	"respiratory paralysis	""results from""	""failure in development of phrenic nerve""	"			
+				
+21	"	We also observed significant transcriptional changes in WNT and BMP pathway components such as an increase in the WNT pathway inhibitor DKK-1 and BMP antagonists, such as GREMLIN-1 and BAMBI (Figures 2B-2D), which are known transcriptional targets of BMP signaling (Grotewold et al., 2001)."	"	We also observed significant transcriptional changes in WNT and BMP pathway components such as an increase in the WNT pathway inhibitor DKK-1 and BMP antagonists, such as GREMLIN-1 and BAMBI (Figures 2B-2D), which are known transcriptional targets of BMP signaling ."	Positive	Comparison
+	"increase	""is""	""bmp pathway component""	"			
+	"We	""observed""	""significant transcriptional changes in increase in GREMLIN-1""	"			
+	"We	""observed significant transcriptional changes in""	""BMP pathway components""	"			
+	"We	""observed""	""significant transcriptional changes in increase in GREMLIN-1 and BAMBI""	"			
+	"We	""observed""	""significant transcriptional changes in increase in BAMBI""	"			
+	"GREMLIN-1	""is""	""Figures 2B-2D""	"			
+	"BAMBI	""is""	""Figures 2B-2D""	"			
+	"GREMLIN-1	""are known transcriptional targets of""	""BMP signaling""	"			
+	"BAMBI	""are known transcriptional targets of""	""BMP signaling""	"			
+				
+22	"	In PSP atrophy is severe in the upper brain stem and superior cerebellar peduncle, with moderate atrophy of medial prefrontal cortex, insula/frontal operculum, cingulate cortex, precentral gyrus and superior parietal lobule (Brenneis et al., 2004; Chiu et al., 2012; Ghosh et al., 2012; Nicoletti et al., 2008)."	"	In PSP atrophy is severe in the upper brain stem and superior cerebellar peduncle, with moderate atrophy of medial prefrontal cortex, insula/frontal operculum, cingulate cortex, precentral gyrus and superior parietal lobule ."	Positive	Comparison
+	"medial prefrontal cortex	""is""	""insula/frontal operculum""	"			
+				
+23	"	Most strikingly, there was a mutant gene-dose-dependent increase in caspase-cleaved TAU fragments, as determined by the caspase-cleaved TAU-specific antibody C3 (Gamblin et al., 2003; Guillozet-Bongaarts et al., 2005), in neurons derived from the isogenic TAU-A152T-iPSCs (Figures 4J and 4K)."	"	Most strikingly, there was a mutant gene-dose-dependent increase in caspase-cleaved TAU fragments, as determined by the caspase-cleaved TAU-specific antibody C3 , in neurons derived from the isogenic TAU-A152T-iPSCs (Figures 4J and 4K)."	Neutral	Criticizing
+	"mutant gene-dose-dependent increase in caspase-cleaved TAU fragments as determined by caspase-cleaved TAU-specific antibody C3 in neurons derived from isogenic TAU-A152T-iPSCs	""there was""	""Most strikingly""	"			
+	"mutant gene-dose-dependent increase in caspase-cleaved TAU fragments as determined by caspase-cleaved TAU-specific antibody C3 in neurons derived from isogenic TAU-A152T-iPSCs	""there was""	"			
+	"neurons	""be derived from""	""isogenic TAU-A152T-iPSCs""	"			
+	"isogenic TAU-A152T-iPSCs	""is""	""Figures""	"			
+				
+24	"	This conclusion was also extended to hypermethylation signatures identified by others (Lister et al., 2011; Ruiz et al., 2012)."	"	This conclusion was also extended to hypermethylation signatures identified by others ."	Neutral	Criticizing
+	"conclusion	""was extended to hypermethylation signatures identified by""	""others""	"			
+	"hypermethylation signatures	""be identified by""	""others""	"			
+				
+25	"	However, much is still not understood with regard to the physiology of stem-cell-derived RPE (Liao et al., 2010) and transplantation into patients is in the early stages."	"	However, much is still not understood with regard to the physiology of stem-cell-derived RPE  and transplantation into patients is in the early stages."	Neutral	Criticizing
+	"QUANT_S_1	""is understood with""	""regard to physiology of stem-cell-derived RPE into patients""	"			
+	"QUANT_S_1	""is understood with""	""regard to physiology of transplantation into patients""	"			

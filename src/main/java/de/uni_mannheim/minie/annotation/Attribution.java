@@ -18,6 +18,7 @@ public class Attribution {
     private Modality.Type modality;
     private Polarity.Type polarity;
     private String predicateVerb;
+
     
     /** Some string constants necessary for detecting the attribution **/
     public static String ACCORDING = "according";
@@ -54,14 +55,14 @@ public class Attribution {
         this.attributionPhrase = attributionPhrase;
         this.modality = mod;
         this.polarity = pol;
-        this.predicateVerb = pVerb;
+        this.predicateVerb = pVerb;        
     }
     /** Copy constructor **/
     public Attribution(Attribution s){
         this.attributionPhrase = s.getAttributionPhrase();
         this.modality = s.getModalityType();
         this.polarity = s.getPolarityType();
-        this.predicateVerb = s.getPredicateVerb();
+        this.predicateVerb = s.getPredicateVerb();   
     }
     
     // Getters
@@ -139,6 +140,15 @@ public class Attribution {
         else
             sb.append(Modality.ST_POSSIBILITY);
         sb.append(CHARACTER.RPARENTHESIS);
+        sb.append(SEPARATOR.SPACE);
+        sb.append(SEPARATOR.COMMA);
+        sb.append(SEPARATOR.SPACE);
+        
+        sb.append("POLARITY:  ");
+        if (this.polarity == Polarity.Type.POSITIVE)
+            sb.append(Polarity.ST_POSITIVE);
+        else 
+            sb.append(Polarity.ST_NEGATIVE);
         
         return sb.toString().trim();
     }
@@ -170,7 +180,7 @@ public class Attribution {
         else
             sb.append(Modality.ST_PS);
         sb.append(CHARACTER.RPARENTHESIS);
-        sb.append(CHARACTER.RPARENTHESIS);
+        sb.append(CHARACTER.RPARENTHESIS);     
         
         return sb.toString();
     }
