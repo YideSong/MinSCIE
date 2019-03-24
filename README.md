@@ -1,6 +1,6 @@
 <img src="https://gkiril.github.io/minie/images/minie_logo.png" align="right" width="150" />
 
-# MinIE - Open Information Extraction system
+# MinScIE: Citation-centered Open Information Extraction
 
 An Open Information Extraction system, providing useful extractions:
 * represents contextual information with semantic annotations
