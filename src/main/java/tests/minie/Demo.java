@@ -19,23 +19,11 @@ import edu.stanford.nlp.semgraph.SemanticGraph;
 
 /**
  * @author Kiril Gashteovski
+ * @author Yide Song
  */
 public class Demo {
     public static void main(String args[]) throws IOException, InterruptedException {
         
-//        String exe = "python";
-//        String command = "C:/Users/songi/PycharmProjects/Master_Thesis/test.py";
-//        String num1 = "Yide doesn't believe that the hero Batman was not born in foggy Gotham City.";
-//        String[] cmdArr = new String[] {exe, command, num1};
-//        Process pr = Runtime.getRuntime().exec(cmdArr);
-//        
-//        BufferedReader in = new BufferedReader(new InputStreamReader(pr.getInputStream()));
-//        String line;
-//        while ((line = in.readLine()) != null) {
-//        	System.out.println(line);
-//        }
-//        in.close();
-//        pr.waitFor();
         
     	
     	// Dependency parsing pipeline initialization
@@ -43,8 +31,6 @@ public class Demo {
         
         // Input sentence
         String sentence = "Both taxa are produced in abundance by a variety of coniferous plants, and are typical in the Paleogene of the northern UK and Greenland region (Boulter and Manum 1989; Jolley and Whitham 2004; Jolley and Morton 2007), as well as mid-latitude North America (Smith et al., 2007) and Arctic Canada (Greenwood and Basinger, 1993).";
-//        // Parse the sentence with CoreNLP
-//        SemanticGraph sg = CoreNLPUtils.parse(parser, sentence);
         
         
         
